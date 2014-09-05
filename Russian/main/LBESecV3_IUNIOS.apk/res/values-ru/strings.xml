@@ -27,7 +27,7 @@
     <string name="HIPS_Perm_CallState_Hint">%1$s приложения могут получать сведения о состоянии телефона</string>
     <string name="HIPS_Perm_CallMonitor">Мониторинг вызовов</string>
     <string name="HIPS_Perm_CallMonitor_Desc">Мониторинг входящих и исходящих звонков, управлению громкостью и т.д.</string>
-    <string name="HIPS_Perm_CallMonitor_Hint">%1$s приложений могут получать сведения о входящих и исходящих звонках, управлять громкостью.</string>
+    <string name="HIPS_Perm_CallMonitor_Hint">%1$s приложений могут получать сведения о входящих и исходящих звонках, управлять громкостью</string>
     <string name="HIPS_Perm_Location">Позиционирование</string>
     <string name="HIPS_Perm_Location_Desc">Обнаружение телефона при помощи мобильных сетей и GPS</string>
     <string name="HIPS_Perm_Location_Hint">%1$s могут получать сведения о местоположении телефона</string>
@@ -165,8 +165,8 @@
     <string name="HIPS_SecurityPrompt_Next">Далее</string>
     <string name="HIPS_SecurityPrompt_ROOT_Caption">Предупреждение</string>
     <string name="HIPS_SecurityPrompt_ROOT_Step1">Предоставить %1$s ROOT права?</string>
-    <string name="HIPS_SecurityPrompt_ROOT_Step2">Доступ к ROOT правам может вызвать нестабильность системы</string>
-    <string name="HIPS_SecurityPrompt_ROOT_Step3">Конфиденциальные данные, например, банковские счета, пароли и сообщения, могут быть утеряны</string>
+    <string name="HIPS_SecurityPrompt_ROOT_Step2">Доступ к ROOT правам может привести к нестабильности системы</string>
+    <string name="HIPS_SecurityPrompt_ROOT_Step3">Конфиденциальные данные, например, банковские счета, пароли и сообщения, могут стать общедоступны</string>
     <string name="HIPS_SecurityPrompt_ROOT_Step4">Также возможно повреждение оборудования</string>
     <string name="HIPS_SecurityPrompt_ROOT_Step5">Используйте ROOT права с осторожностью!</string>
     <string name="HIPS_SecurityPrompt_ROOT_Step6">Предоставить приложению %1$s ROOT права?</string>

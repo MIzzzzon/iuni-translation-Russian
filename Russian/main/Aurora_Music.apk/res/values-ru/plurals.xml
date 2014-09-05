@@ -12,11 +12,11 @@
     </plurals>
     <plurals name="NNNtracksdeleted">
         <item quantity="other">%d трек(ов) удален(о).</item>
-        <item quantity="one">Трек удален.</item>
+        <item quantity="one">Трек удален</item>
     </plurals>
     <plurals name="NNNtrackstoplaylist">
         <item quantity="other">Добавлен(о) %d трек(ов) в плейлист.</item>
-        <item quantity="one">Трек добавлен в плейлист.</item>
+        <item quantity="one">Трек добавлен в плейлист</item>
     </plurals>
     <plurals name="NNNtrackstoplaylist2">
         <item quantity="other">%1$d трек(ов) добавлен(о) в плейлист %2$s</item>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="no_storage">Смонтируйте карту памяти перед началом записи.</string>
+    <string name="no_storage">Смонтируйте карту памяти перед началом записи</string>
     <string name="preparing_sd">Подготовка карты памяти</string>
-    <string name="access_sd_fail">"Нет доступа к карте памяти."</string>
+    <string name="access_sd_fail">Нет доступа к карте памяти</string>
     <string name="spaceIsLow_content">Место на карте памяти заканчивается. Измените настройки качества или удалите некоторые файлы.</string>
     <string name="FMRecording_reach_size_limit">Лимит по размеру достигнут.</string>
     <string name="audio_db_title_format">гггг-ММ-дд ЧЧ:мм:сс</string>

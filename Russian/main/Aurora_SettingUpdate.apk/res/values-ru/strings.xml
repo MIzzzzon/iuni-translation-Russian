@@ -5,7 +5,7 @@
     <string name="current_version_desc">Текущая версия</string>
     <string name="menu_setting">Настройки</string>
     <string name="notify_auto_update_title">Обновление системы</string>
-    <string name="notify_auto_check_notify">Доступна новая версия, нажмите кнопку Обновить.</string>
+    <string name="notify_auto_check_notify">Доступна новая версия, нажмите кнопку Обновить</string>
     <string name="down_upgrade_file">Загрузить обновление</string>
     <string name="down_suspend">Загрузка OTA…</string>
     <string name="down_ok_continue">Загрузка завершена, нажмите для продолжения</string>
@@ -38,7 +38,7 @@
     <string name="check_local_file">Проверка файла обновления, пожалуйста, подождите…</string>
     <string name="check_local_file_failed">Неправильный файл. Выберите файл обновления повторно.</string>
     <string name="battery_title">Предупреждение</string>
-    <string name="battery_summery2">Заряд батареи менее 35%, рекомендуется зарядить устройство для успешного обновления.</string>
+    <string name="battery_summery2">Заряд батареи менее 35%, рекомендуется зарядить устройство для успешного обновления</string>
     <string name="download_complete_title">Загрузка завершена</string>
     <string name="sdcard_no_space">Недостаточно места на SD-карте, освободите</string>
     <string name="interanl_card_no_space">Недостаточно свободного места на SD-карте, пожалуйста, освободите место перед обновлением.</string>
@@ -67,7 +67,7 @@
     <string name="download_wait_Wi-Fi">Загрузка OTA, ожидание Wi-Fi…</string>
     <string name="download_wait_storage">Загрузка OTA, ожидание карты памяти…</string>
     <string name="verfy_file">Проверка…</string>
-    <string name="push_content">Загружена последняя версия, нажмите кнопку \"Обновить\".</string>
+    <string name="push_content">Загружена последняя версия, нажмите кнопку \"Обновить\"</string>
     <string name="push_title">Обновление системы(%s)</string>
     <string name="have_no_network">Нет сети</string>
     <string name="have_network_error">Ошибка сети</string>

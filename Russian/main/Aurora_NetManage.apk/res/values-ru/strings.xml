@@ -77,7 +77,7 @@
     <string name="clear_some_cache_dlg_text">Данные кэша, относящиеся с выбранным приложениям будут удалены. Продолжить?</string>
     <string name="uninstall_app_dlg_text">Выбранные приложения будут удалены. Продолжить?</string>
     <string name="force_stop_dlg_title">Остановить принудительно?</string>
-    <string name="force_stop_dlg_text">Принудительное закрытие приложения может отразиться на его функциональности.</string>
+    <string name="force_stop_dlg_text">Принудительное закрытие приложения может отразиться на его функциональности</string>
     <string name="browser">Браузер</string>
     <string name="music">Музыка</string>
     <string name="dialog">Телефон</string>

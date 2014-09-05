@@ -69,7 +69,7 @@
     <string name="delete_alarm">Отменить будильник</string>
     <string name="enable_alarm">Включить будильник</string>
     <string name="disable_alarm">Отключить будильник</string>
-    <string name="delete_alarm_confirm">Отменить выбранный будильник.</string>
+    <string name="delete_alarm_confirm">Отменить выбранный будильник</string>
     <string name="show_clock">Показать часы</string>
     <string name="hide_clock">Скрыть часы</string>
     <string name="label">Метка</string>
@@ -80,7 +80,7 @@
     <string name="alert">Мелодия</string>
     <string name="time">Время</string>
     <string name="alarm_alert_dismiss_text">Отмена</string>
-    <string name="alarm_alert_alert_silenced">Будильник будет повторен через %d минут(ы).</string>
+    <string name="alarm_alert_alert_silenced">Будильник будет повторен через %d минут(ы)</string>
     <string name="alarm_alert_snooze_text">Отложить</string>
     <string name="alarm_alert_snooze_set">Отложено на %d минут</string>
     <string name="day">"1 д "</string>
@@ -92,7 +92,7 @@
     <string name="every_day">Ежедневно</string>
     <string name="never">Никогда</string>
     <string name="day_concat">", "</string>
-    <string name="clock_instructions">Выберите часы для отображения.</string>
+    <string name="clock_instructions">Выберите часы для отображения</string>
     <string name="analog_gadget">Аналоговые</string>
     <string name="settings">Настройки</string>
     <string name="alarm_in_silent_mode_title">Мелодия будильника в беззвучном режиме</string>
@@ -107,12 +107,12 @@
     <string name="alarm_volume_title">Громкость</string>
     <string name="alarm_volume_summary">Установить громкость будильника</string>
     <string name="silent_alarm_summary">Отключить звук</string>
-    <string name="alarm_notify_text">Выберите приостановить или выключить будильник.</string>
+    <string name="alarm_notify_text">Выберите приостановить или выключить будильник</string>
     <string name="alarm_notify_snooze_label">%s (приостановлен)</string>
     <string name="alarm_notify_snooze_text">Звонок будет повторен  через %s, нажмите для отмены</string>
     <string name="volume_button_setting_title">Функции клавиш громкости</string>
     <string name="volume_button_dialog_title">Функции кнопок</string>
-    <string name="volume_button_setting_summary">Set the functions of these buttons when the alarm is activated.</string>
+    <string name="volume_button_setting_summary">Set the functions of these buttons when the alarm is activated</string>
     <string name="default_ringtone_setting_title">Установить мелодию по умолчанию</string>
     <string name="alarm_button_description">Будильник</string>
     <string name="gallery_button_description">Галерея</string>
@@ -121,7 +121,7 @@
     <string name="home_button_description">Рабочий стол</string>
     <string name="desk_clock_button_description">Дисплей часов</string>
     <string name="battery_charging_level">%d%%</string>
-    <string name="weather_fetch_failure">Невозможно предоставить информацию о погоде.</string>
+    <string name="weather_fetch_failure">Невозможно предоставить информацию о погоде</string>
     <string name="menu_item_dock_settings">Dock Settings</string>
     <string name="alarm_klaxon_service_desc">Alarm ringtone playback service set in Desk Clock</string>
     <string name="loading_ringtone">Загрузка мелодий…</string>

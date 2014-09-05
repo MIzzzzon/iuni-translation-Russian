@@ -64,8 +64,8 @@
     <string name="dts_pref_title">Звук DTS</string>
     <string name="dtmf_tone_enable_title">Звук в номеронабирателе</string>
     <string name="touch_vibrate_feedback_title">Виброотклик</string>
-    <string name="dtmf_tone_enable_summary_on">Включить звук в номеронабирателе.</string>
-    <string name="dtmf_tone_enable_summary_off">Выключить звук в номеронабирателе.</string>
+    <string name="dtmf_tone_enable_summary_on">Включить звук в номеронабирателе</string>
+    <string name="dtmf_tone_enable_summary_off">Выключить звук в номеронабирателе</string>
     <string name="sound_effects_enable_title">Звук нажатия на экран</string>
     <string name="sound_effects_enable_summary_on">Включить звук при нажатии на экран</string>
     <string name="sound_effects_enable_summary_off">Выключить звук при нажатии на экран</string>
@@ -120,7 +120,7 @@
     <string name="notification_vibrate_summary">Включить вибрацию для SMS, почты и других уведомлений</string>
     <string name="gn_vc_dlg_title">Выключить режим управления голосом?</string>
     <string name="gn_vc_dlg_message">Можно задать звук и вибрацию после закрытия режима управления звуком. Вы желаете выключить режим управления голосом?</string>
-    <string name="gn_vc_dlg_check">"Не запрашивать следующий раз"</string>
+    <string name="gn_vc_dlg_check">Не запрашивать следующий раз</string>
     <string name="ringtone_default">Мелодия по умолчанию</string>
     <string name="notification_sound_default">Рингтон уведомления по умолчанию</string>
     <string name="alarm_sound_default">По умолчанию</string>

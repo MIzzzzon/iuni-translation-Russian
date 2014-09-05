@@ -69,7 +69,7 @@
     <string name="dialog_delete_tracks_con_message">Удалить выбранные треки?</string>
     <string name="dialog_delete_album_con_message">Удалить альбом?</string>
     <string name="dialog_delete_albums_con_message">Удалить выбранные альбомы?</string>
-    <string name="num_albums_num_songs" formatted="false">%sАльбомы, и%sТреки</string>
+    <string name="num_albums_num_songs" formatted="false">%sАльбомов, и%sТреков</string>
     <string name="num_songs_of_album">%Треков</string>
     <string name="release_date_of_album">Время релиза:%s</string>
     <string name="open_fail">не удалось открыть</string>
@@ -93,7 +93,7 @@
     <string name="player_nofile">Файла не существует!</string>
     <string name="player_filefailed">Не удалось открыть, попробуйте снова!</string>
     <string name="player_failed">Формат не поддерживается</string>
-    <string name="player_download_exist">Трек загружен.</string>
+    <string name="player_download_exist">Трек загружен</string>
     <string name="player_download_start">добавлена в список загрузок</string>
     <string name="player_download_failed">Ошибка загрузки!</string>
     <string name="remove_download_message">Удалить выбранные загруженные песни?</string>
@@ -175,23 +175,23 @@
     <string name="delete_playlist_menu">Удалить</string>
     <string name="edit_playlist_menu">Редактировать</string>
     <string name="rename_playlist_menu">Переименовать</string>
-    <string name="playlist_deleted_message">Удалить плейлист.</string>
-    <string name="playlist_renamed_message">Переименовать плейлист.</string>
+    <string name="playlist_deleted_message">Удалить плейлист</string>
+    <string name="playlist_renamed_message">Переименовать плейлист</string>
     <string name="recentlyadded">Недавно добавленные</string>
     <string name="recentlyadded_title">Новые</string>
     <string name="podcasts_listitem">Подкаст</string>
     <string name="podcasts_title">Подкаст</string>
     <string name="sdcard_missing_title">Нет SD-карты</string>
     <string name="sdcard_missing_title_nosdcard">Нет USB накопителя</string>
-    <string name="sdcard_missing_message">SD-карта не вставлена.</string>
-    <string name="sdcard_missing_message_nosdcard">USB накопитель не подключен.</string>
-    <string name="sdcard_busy_title">SD-карта недоступна.</string>
-    <string name="sdcard_busy_title_nosdcard">Отсутствует USB накопитель.</string>
-    <string name="sdcard_busy_message">SD-карта занята.</string>
-    <string name="sdcard_busy_message_nosdcard">USB накопитель занят.</string>
+    <string name="sdcard_missing_message">SD-карта не вставлена</string>
+    <string name="sdcard_missing_message_nosdcard">USB накопитель не подключен</string>
+    <string name="sdcard_busy_title">SD-карта недоступна</string>
+    <string name="sdcard_busy_title_nosdcard">Отсутствует USB накопитель</string>
+    <string name="sdcard_busy_message">SD-карта занята</string>
+    <string name="sdcard_busy_message_nosdcard">USB накопитель занят</string>
     <string name="sdcard_error_title">Ошибка SD-карты</string>
     <string name="sdcard_error_title_nosdcard">Ошибка USB накопителя</string>
-    <string name="sdcard_error_message">Произошла ошибкаSD-карты.</string>
+    <string name="sdcard_error_message">Произошла ошибкаSD-карты</string>
     <string name="sdcard_error_message_nosdcard">Произошла ошибка USB накопителя.</string>
     <string name="unknown_artist_name">Неизвестный исполнитель</string>
     <string name="unknown_album_name">Неизвестный альбом</string>
@@ -208,11 +208,11 @@
     <string name="queue">Текущий плейлист</string>
     <string name="new_playlist">Плейлист</string>
     <string name="new_playlist_name_template">Плейлист %d</string>
-    <string name="emptyplaylist">Выбранный плейлист пуст.</string>
+    <string name="emptyplaylist">Выбранный плейлист пуст</string>
     <string name="create_playlist_create_text">Сохранить</string>
     <string name="create_playlist_overwrite_text">Перезаписать</string>
     <string name="service_start_error_title">Ошибка воспроизведения</string>
-    <string name="service_start_error_msg">Невозможно воспроизвести этот файл.</string>
+    <string name="service_start_error_msg">Невозможно воспроизвести этот файл</string>
     <string name="service_start_error_button">ОК</string>
     <string name="weekpicker_set">Готово</string>
     <string name="weekpicker_title">Установить время</string>
@@ -240,7 +240,7 @@
     <string name="search_settings_description">Исполнитель, альбом и трек</string>
     <string name="search_hint">Поиск музыки</string>
     <string name="fast_scroll_alphabet">АБВГДЕЖЗИКЛМНОПРСТУФХЦЧШЩЭЮЯ</string>
-    <string name="widget_initial_text">Нажмите для выбора музыки.</string>
+    <string name="widget_initial_text">Нажмите для выбора музыки</string>
     <string name="effectspanel">Звуковые эффекты</string>
     <string name="albumsongseparator">"
 "</string>

@@ -11,7 +11,7 @@
     <string name="net_manage">Сеть</string>
     <string name="cache_manage">Кэш</string>
     <string name="clear_space">Очистка</string>
-    <string name="def_soft_manage">Умолчания</string>
+    <string name="def_soft_manage">Ассоциации</string>
     <string name="venture_soft">Опасное ПО</string>
     <string name="recom_optimal"> приложения для оптимизации</string>
     <string name="wait_optimal_num">приложений для оптимизации: %1$s</string>
@@ -203,7 +203,7 @@
     <string name="no_app_for_add">Нет рекламных приложений</string>
     <string name="no_auto_start_app_hint_title">Приложений с автозапуском не обнаружено</string>
     <string name="no_auto_start_app_hint_text">Для добавления нажмите на ПЛЮС в правом верхнем углу</string>
-    <string name="no_set_item">Умолчаний не задано</string>
+    <string name="no_set_item">Ассоциаций не задано</string>
     <string name="no_danger_permission_app">Нет опасных приложений</string>
     <string name="lbe_monitor_close_hint_title">приложение было закрыто</string>
     <string name="lbe_monitor_close_hint_text">Повторное открытие пункта настройки в “меню-настройки” позволит продолжить использование функций</string>
