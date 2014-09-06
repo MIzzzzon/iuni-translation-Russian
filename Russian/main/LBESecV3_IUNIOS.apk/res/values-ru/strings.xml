@@ -204,7 +204,7 @@
     <string name="Dashboard_Log_Clear_Content">Все журналы будут очищены. Продолжить?</string>
     <string name="Privacy_Perm_Count">Разрешено: %1$d Отказано: %2$d</string>
     <string name="Privacy_AppPerm_Count">%1$d разрешения</string>
-    <string name="Privacy_AppPerm_Count_Trust">%1$d разрешения - <font color=#478800>Доверенные</font></string>
+    <string name="Privacy_AppPerm_Count_Trust">>%1$dpermissions - &lt;font color=#478800>Trusted&lt;/font></string>
     <string name="Privacy_App_Trust">Я доверяю этому приложению</string>
     <string name="Privacy_App_Trust_Summary_Off">IUNI OS будет следить за этим приложением</string>
     <string name="Privacy_App_Trust_Summary_On">IUNI OS будет доверять этому приложению</string>
