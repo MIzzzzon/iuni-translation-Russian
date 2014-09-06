@@ -1118,7 +1118,7 @@
     <string name="dock_audio_summary_unknown">Настройки подключенной док-станции</string>
     <string name="dock_not_found_title">Док-станция не найдена</string>
     <string name="dock_not_found_text">Чтобы настроить док-станцию, установите в нее телефон.</string>
-    <string name="dock_sounds_enable_title">Звук при установке в док-станцию</string>>
+    <string name="dock_sounds_enable_title">Звук при установке в док-станцию</string>
     <string name="dock_sounds_enable_summary_on">Воспроизводить звук при установке или извлечении телефона</string>
     <string name="dock_sounds_enable_summary_off">Не воспроизводить звук при установке или извлечении телефона</string>
     <string name="account_settings">Аккаунты</string>
