@@ -38,7 +38,7 @@
     <string name="add_auto_start_app">Добавить для автозапуска</string>
     <string name="phone_memory">Память</string>
     <string name="sd_card">SD-карта</string>
-    <string name="batch_clear">Batch Clear</string>
+    <string name="batch_clear">Пакетное удаление</string>
     <string name="check_all">Выбрать все</string>
     <string name="cache_detail">Подробности кэша</string>
     <string name="clear_cache">Очистить кэш</string>
@@ -102,7 +102,7 @@
     <string name="are_you_sure_forbit_auto_start">Отключить автозапуск для этого приложения?</string>
     <string name="cache_clear_finish">Очистка кэша завершена</string>
     <string name="app_uninstall_finish">Удаление приложения завершено</string>
-    <string name="service_network_info">Фоновое ипользование данных</string>
+    <string name="service_network_info">Фоновое использование данных</string>
     <string name="background_network">Background data of unknown apps</string>
     <string name="set">Настройки</string>
     <string name="remain_data">Distance cycle reset date</string>
