@@ -271,7 +271,7 @@
 	<string name="permgrouplab_display">Доступ к интерфейсу</string>
     <string name="permgroupdesc_display">Позволяет приложению получать доступ к интерфейсу других приложений</string>
     <string name="permgrouplab_storage">Память</string>
-    <string name="permgroupdesc_storage">Доступ к SD-карте</string>
+    <string name="permgroupdesc_storage">Доступ к USB накопителю</string>
 	<string name="permgrouplab_accessibilityFeatures">Специальные возможности</string>
     <string name="permgroupdesc_accessibilityFeatures">Специальные возможности, которые можно запрашивать</string>
     <string name="capability_title_canRetrieveWindowContent">Читать содержимое окна</string>
@@ -504,9 +504,9 @@
     <string name="permdesc_brick">Позволяет приложению отключать телефон. Может быть опасно для системы</string>
     <string name="permlab_reboot">Перезагрузка телефона</string>
     <string name="permdesc_reboot">Позволяет приложению принудительно перезагружать телефон</string>
-    <string name="permlab_mount_unmount_filesystems">Монтирование</string>
+    <string name="permlab_mount_unmount_filesystems">Монтирование USB накопителя</string>
     <string name="permdesc_mount_unmount_filesystems">Позволяет приложению монтировать и удалять файловые системы</string>
-    <string name="permlab_mount_format_filesystems">Форматирование</string>
+    <string name="permlab_mount_format_filesystems">Форматирование USB накопителя</string>
     <string name="permdesc_mount_format_filesystems">Позволяет приложению форматировать файловые системы</string>
     <string name="permlab_asec_access">Внутренняя память</string>
     <string name="permdesc_asec_access">Позволяет приложению получать сведения о внутреннем памяти</string>
@@ -615,9 +615,9 @@
     <string name="permlab_writeDictionary">Изменение словаря</string>
     <string name="permdesc_writeDictionary">Позволяет приложению редактировать содержимое в словаре пользователя</string>
 	<string name="permlab_sdcardRead">Чтение SD-карты</string>
-    <string name="permdesc_sdcardRead">Позволяет приложению читать информацию на SD-карте</string>
-    <string name="permlab_sdcardWrite">Запись на SD-карту</string>
-    <string name="permdesc_sdcardWrite">Позволяет приложению записывать и изменять данные на SD-карте</string>
+    <string name="permdesc_sdcardRead">Позволяет приложению читать информацию на USB накопителе</string>
+    <string name="permlab_sdcardWrite">Запись на USB накопитель</string>
+    <string name="permdesc_sdcardWrite">Позволяет приложению записывать и изменять данные на USB накопителе</string>
     <string name="permlab_mediaStorageWrite">Данные медиа</string>
     <string name="permdesc_mediaStorageWrite">Позволяет приложению изменять содержимое медиа во внутренней памяти</string>
 	<string name="permlab_sdcardAccessAll">Доступ ко внешним накопителям</string>
@@ -1075,8 +1075,8 @@
     <string name="usb_cd_installer_notification_title">Подключен как установщик</string>
     <string name="usb_accessory_notification_title">USB устройство подключено</string>
     <string name="usb_notification_message">Нажмите, для настройки</string>
-    <string name="extmedia_format_title">Форматировать SD-карту?</string>
-    <string name="extmedia_format_message">Все данные, находящиеся на SD-карте, будут удалены</string>
+    <string name="extmedia_format_title">Форматировать USB накопитель?</string>
+    <string name="extmedia_format_message">Все данные, находящиеся на USB накопителе, будут удалены</string>
     <string name="extmedia_format_button_format">Формат</string>
     <string name="adb_active_notification_title">Отладка по USB разрешена</string>
     <string name="adb_active_notification_message">Нажмите для отключения отладки по USB.</string>
@@ -1348,4 +1348,9 @@
     <string name="app_no_restricted_accounts">Это приложение не поддерживается в аккаунтах для профилей с ограниченным доступом</string>
     <string name="app_not_found">Невозможно обработать это действие</string>
     <string name="revoke">Отмена</string>
+    <string name="permission_remember_choice">记住</string>
+    <string name="permission">权限</string>
+    <string name="zzzzz_gn_update_time_title">对时成功</string>
+    <string name="zzzzz_gn_time_title">您的时间已经很准确了</string>
+    <string name="zzzzz_gn_fail_update_time">对时失败，请检查网络并重新勾选</string>
 </resources>

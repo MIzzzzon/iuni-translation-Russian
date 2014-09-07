@@ -214,7 +214,7 @@
     <string name="gn_ft_bt_result_no">НЕТ</string>
     <string name="gn_phone_text">Телефон</string>
     <string name="gn_usb_storage_text">Внутренняя память</string>
-    <string name="gn_exportDirectoryName">/Backup/Contact</string>
+    <string name="gn_exportDirectoryName" />
     <string name="gn_yes">Да</string>
     <string name="gn_no">нет</string>
     <string name="zzzzz_gn_group_phone">Телефон</string>

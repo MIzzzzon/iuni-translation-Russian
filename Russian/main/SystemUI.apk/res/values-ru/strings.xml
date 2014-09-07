@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="back_to_call">Ответить</string>
-    <string name="do_not_notify">Не уведомлять</string>
+    <string name="do_not_notify">Заблокировать</string>
     <string name="notify_warning">Можно открыть в Настройках уведомлений</string>
     <string name="notify_warning_title">Отключить уведомления?</string>
     <string name="clear_all_recents">Очистить все</string>
@@ -16,7 +16,7 @@
     <string name="toolbar_bluetooth">Bluetooth</string>
     <string name="toolbar_electric_torch">Фонарик</string>
     <string name="battery_low_content">"Заряд ккумулятора меньше чем %d%%, пожалуйста, зарядите"</string>
-    <string name="recent_no_task">В настоящее время задач не существует</string>
+    <string name="recent_no_task">Нет последних приложений</string>
     <string name="storage_usb_type">USB накопитель</string>
     <string name="storage_usb_badremoval_notification_title">USB накопитель был извлечен</string>
     <string name="storage_usb_badremoval_notification_message">USB накопитель были извлечен, вставьте новую карту памяти</string>
@@ -25,6 +25,10 @@
     <string name="China_Telecom">China Telecom</string>
     <string name="roamingTextSearching">Поиск службы</string>
     <string name="back_to_alarm_clock">Вернуться к будильнику</string>
+    <string name="aurora_dialog_title_notice">Обратите внимание</string>
+    <string name="aurora_nav_bar_hidden_msg">"Чтобы скрыть панель навигации, проведите вниз от нее в портретном режиме.
+Для восстановления проведите вверх от нижней части экрана"</string>
+    <string name="qq_running_back">Выполняется в фоновом режиме</string>
     <string name="config_statusBarComponent">com.android.systemui.statusbar.phone.PhoneStatusBar</string>
     <string name="config_systemBarComponent">com.android.systemui.statusbar.tablet.TabletStatusBar</string>
     <string name="aurora_abbrev_wday_month_day_no_year">EEE, MMMM d</string>

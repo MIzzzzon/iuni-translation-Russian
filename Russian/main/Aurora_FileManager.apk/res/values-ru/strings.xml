@@ -17,7 +17,7 @@
     <string name="aurora_file_manager_category_title">Категория</string>
     <string name="aurora_file_manager_storage_title">Память</string>
     <string name="aurora_file_manager_internal_storage_title">Память</string>
-    <string name="aurora_file_manager_total_storage_title">Всего памяти</string>
+    <string name="aurora_file_manager_total_storage_title">Телефон</string>
     <string name="aurora_file_manager_external_storage_title">SD-карта</string>
     <string name="aurora_file_manager_cloud_storage_title">Облачное храненилище</string>
     <string name="aurora_file_storage_free">Доступно</string>
@@ -77,14 +77,20 @@
     <string name="has_no_free_memory">Недостаточно места для хранения. Пожалуйста, освободите место на диске.</string>
     <string name="mkdir_no_permission">Недостаточно прав для создания новой папки</string>
     <string name="newfolder">Новая папка</string>
+    <string name="create_newfolder">Создать новую папку</string>
     <string name="msg_rename_ext">При изменении расширения файл может стать недоступным. Изменить расширение?</string>
     <string name="paste_same_folder">Папка назначения такая же, как и исходная папка</string>
     <string name="fail_to_create_folder">Ошибка создания папки</string>
     <string name="warning">Предупреждение</string>
     <string name="wait_a_moment">Файлы копируются в фоновом режиме. Пожалуйста, подождите!</string>
     <string name="next">Вперед</string>
-    <string name="nexts">Вперед %s  </string>
+    <string name="nexts">Вперед(%s)  </string>
     <string name="gtext">ГБ</string>
     <string name="get_more_pic">Возможно выбрать до %1$d изображений</string>
     <string name="phone_audio">Запись телефонных разговоров</string>
+    <string name="phone_audios">Запись разговоров</string>
+    <string name="have_select_pic">выбрано(%s)  </string>
+    <string name="input_error_char">Введен недопустимый символ</string>
+    <string name="i_confirm_know">ОК</string>
+    <string name="open_dir">Открыть папку</string>
 </resources>

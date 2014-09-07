@@ -124,8 +124,8 @@
     <string name="factory_defalut_tip">Эта операция удалит все данные на устройстве хранения телефона, включая:</string>
     <string name="factory_defalut_tip_account"><li>Ваш аккаунт Google</li>" "</string>
     <string name="factory_defalut_system_applay_tip"><li>Данные системы и настройки приложений</li></string>
-    <string name="total_size">всего</string>
-    <string name="avail_size">доступно</string>
+    <string name="total_size">Всего</string>
+    <string name="avail_size">Доступно</string>
     <string name="unlock_set_unlock_mode_digit">Цифровой пароль</string>
     <string name="unlock_set_unlock_digit_title">Цифровой пароль</string>
     <string name="unlock_set_unlock_digit_summary">Введите цифры</string>
@@ -181,8 +181,8 @@
     <string name="aurora_sim_02_settings_title">Инструменты SIM2</string>
     <string name="enable_art">Режим ART</string>
     <string name="select_runtime_warning_message">Reboot to change runtime from %1$s to %2$s?</string>
-    <string name="usage_type_data_wifi_send">Количество отправленных данных по Wi-Fi</string>
-    <string name="usage_type_data_wifi_recv">Количество полученных данных по Wi-Fi</string>
+    <string name="usage_type_data_wifi_send">Отправленных данных по Wi-Fi</string>
+    <string name="usage_type_data_wifi_recv">Полученных данных по Wi-Fi</string>
     <string name="battery_history_days_no_seconds">%1$dДней%2$dЧасов%3$dМинут</string>
     <string name="battery_history_hours_no_seconds">%1$dЧасов%2$dМинут</string>
     <string name="battery_history_minutes_no_seconds">%1$dМинут</string>
@@ -209,6 +209,9 @@
     <string name="sms_change_default_dialog_text" formatted="false">Использовать %s вместо %s как SMS приложение по умолчанию?</string>
     <string name="sms_change_default_no_previous_dialog_text">Использовать %s как SMS приложение?</string>
     <string name="art_title">изменение времени выполнения</string>
+    <string name="clear_sd_card">Очистить SD-карту</string>
+    <string name="otg_card_title">OTG накопитель</string>
+    <string name="clear_otg_card">Очистить OTG накопитель</string>
     <string name="lock_screen_notifications_title">Уведомления на экране блокировки</string>
     <string name="lock_screen_notifications_summary">Показывать информацию о пропущенных звонках и SMS на экране блокировки</string>
     <string name="virtual_key_setting_pref_title">Виртуальный ключ</string>

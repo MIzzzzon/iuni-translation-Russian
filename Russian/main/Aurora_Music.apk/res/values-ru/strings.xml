@@ -36,7 +36,8 @@
     <string name="aurora_retry">Повторить попытку</string>
     <string name="aurora_collect_playlist">Избранное</string>
     <string name="aurora_collect_size">%dПлейлист(ов)</string>
-    <string name="aurora_collect_time">Время: yyyy.mm.dd</string>
+    <string name="aurora_collect_time">yyyy.MM.dd</string>
+    <string name="aurora_collect_show_time">Время:</string>
     <string name="aurora_download_manager">Загруженные</string>
     <string name="aurora_player_share">Поделиться</string>
     <string name="aurora_player_shareinfo">Поделиться музыкой:</string>
@@ -59,6 +60,15 @@
     <string name="aurora_search_lyric_artist">Исполнитель:</string>
     <string name="aurora_now_playing">Воспроизвести</string>
     <string name="aurora_lyricsize">Сопоставлять %dслова</string>
+    <string name="aurora_search_img_size">Match%dИзображения</string>
+    <string name="aurora_is_ignored">Была проигнорирована</string>
+    <string name="aurora_ignore">Игнорировать</string>
+    <string name="aurora_all_regain">Восстановить все</string>
+    <string name="aurora_ignore_info">Не игнорировать сканировние файлов, папок, списки элементов слева могут игнорироваться при сканировании</string>
+    <string name="aurora_regain">Восстановить</string>
+    <string name="aurora_clean_space">Недостаточно свободного места на телефоне, освободите</string>
+    <string name="aurora_modify_id3_info">Изменить id3 теги</string>
+    <string name="aurora_baidu_version">Копирайт Baidu Music</string>
     <string name="img_desc_tens_of_hour">Десятки часов</string>
     <string name="img_desc_units_of_hour">Единицы часов</string>
     <string name="img_desc_tens_of_min">Десятки минут</string>
@@ -72,6 +82,8 @@
     <string name="num_albums_num_songs" formatted="false">%sАльбомов, и%sТреков</string>
     <string name="num_songs_of_album">%Треков</string>
     <string name="release_date_of_album">Время релиза:%s</string>
+    <string name="aurora_baidu_permission">Baidu Music, все права защищены</string>
+    <string name="player_baidu_logo">Baidu Music</string>
     <string name="open_fail">не удалось открыть</string>
     <string name="song_name">xxxx</string>
     <string name="song_album">yyy.yyyy</string>
@@ -97,6 +109,8 @@
     <string name="player_download_start">добавлена в список загрузок</string>
     <string name="player_download_failed">Ошибка загрузки!</string>
     <string name="remove_download_message">Удалить выбранные загруженные песни?</string>
+    <string name="search_failed">Ошибка поиска!</string>
+    <string name="play_failed_nofiles">Нет файлов воспроизведения</string>
     <string name="appwidget_songtitle">Треки</string>
     <string name="appwidget_artisttitle">Исполнители</string>
     <string name="playmode">Перемешать</string>
@@ -137,6 +151,7 @@
     <string name="aurora_albums">Альбом</string>
     <string name="aurora_loading">Загрузка…</string>
     <string name="aurora_netshare">Поделиться синглом</string>
+    <string name="aurora_download_permission">Нет разрешений для загрузки</string>
     <string name="aurora_notification_artist_album">%1$s·%2$s</string>
     <string name="onesong">1 трек</string>
     <string name="durationformatshort">%3$02d:%5$02d</string>

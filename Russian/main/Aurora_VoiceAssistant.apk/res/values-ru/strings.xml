@@ -115,4 +115,11 @@
     <string name="wakeup_intro">После активации голосового управления, приложение сможет пробуждать устройство</string>
     <string name="wakeup_title">Голосовое управление</string>
     <string name="wakeup_detail">进行声纹信息的管理</string>
+    <string name="vs_barcode_app_name">BarCodeScanner</string>
+    <string name="vs_barcode_title_scanner">扫一扫</string>
+    <string name="vs_barcode_title_result">扫描结果</string>
+    <string name="vs_barcode_scanning_tips">对准二维码即可自动扫描</string>
+    <string name="vs_barcode_search">搜索</string>
+    <string name="vs_barcode_share">分享</string>
+    <string name="vs_barcode_share_to">分享至</string>
 </resources>

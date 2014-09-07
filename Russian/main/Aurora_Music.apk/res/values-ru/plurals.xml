@@ -20,6 +20,6 @@
     </plurals>
     <plurals name="NNNtrackstoplaylist2">
         <item quantity="other">%1$d трек(ов) добавлен(о) в плейлист %2$s</item>
-        <item quantity="one">трек добавлен в плейлист</item>
+        <item quantity="one">трек %1$d добавлен в плейлист %2$s</item>
     </plurals>
 </resources>

@@ -171,7 +171,7 @@
     <string name="running_proc">Работающие</string>
     <string name="stop">остановить</string>
     <string name="memory_details">Память: %1$s/%2$s</string>
-    <string name="memory_percent">использованно: %1$s</string>
+    <string name="memory_percent">Использованно: %1$s</string>
     <string name="ad_block">Блокировка рекламы</string>
     <string name="ad_app_num">Реклама в %1$s приложениях</string>
     <string name="have_ad_app_num">%1$s приложений с рекламой</string>

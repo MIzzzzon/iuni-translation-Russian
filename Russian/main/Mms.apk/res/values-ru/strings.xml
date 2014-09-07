@@ -443,7 +443,8 @@
     <string name="gn_conv_view_encry_toast">Has view all list</string>
     <string name="gn_confirm">ОК</string>
     <string name="gn_refresh_menu">В пакете</string>
-    <string name="aurora_mms_send_failed">В пути</string>
+    <string name="aurora_mms_sending">Отправка…</string>
+    <string name="aurora_mms_editing">Редактирование…</string>
     <string name="aurora_dail_sim1f">SIM1 Dial(Recent)</string>
     <string name="aurora_dail_sim1">SIM1 Dial</string>
     <string name="aurora_dail_sim2f">SIM2 Dial(Recent)</string>
@@ -548,12 +549,12 @@
     <string name="forward_prefix">"Префикс: "</string>
     <string name="discard_message">Отменить</string>
     <string name="discard_message_reason">Сообщение будет удалено, так как не указан ни один получатель</string>
-    <string name="has_invalid_recipient">Неверные получатели: &lt;%1$s&gt;</string>
+    <string name="has_invalid_recipient">Неверные получатели</string>
     <string name="invalid_destination">Неверный адрес получателя</string>
     <string name="service_not_activated">Услуга не активирована в сети</string>
     <string name="service_message_not_found">Срок действия сообщения истек или оно недоступно</string>
     <string name="service_network_problem">Не удалось отправить сообщение из-за ошибки сети</string>
-    <string name="invalid_recipient_message">Убедитесь, что все получатели указаны правильно</string>
+    <string name="invalid_recipient_message">Убедитесь, что получател(и) &lt;%1$s> указаны правильно</string>
     <string name="cannot_send_message">Не удалось отправить сообщение</string>
     <string name="cannot_send_message_reason">Не указан ни один получатель.</string>
     <string name="cannot_forward_drm_obj">Нельзя переслать DRM объект из этого сообщения</string>

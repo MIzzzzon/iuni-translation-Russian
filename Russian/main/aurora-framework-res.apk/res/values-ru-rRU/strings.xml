@@ -84,6 +84,7 @@
     <string name="volume_icon_description_incall">Вызов</string>
     <string name="volume_icon_description_media">Медиа</string>
     <string name="volume_icon_description_notification">Уведомления</string>
+    <string name="aurora_save">Сохранить</string>
     <string name="aurora_back_button_label">Назад</string>
     <string name="aurora_next_button_label">Вперед</string>
     <string name="aurora_skip_button_label">Пропустить</string>
