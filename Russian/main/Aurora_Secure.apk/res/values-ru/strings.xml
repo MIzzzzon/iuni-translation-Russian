@@ -6,7 +6,7 @@
     <string name="right_brackets">)</string>
     <string name="app_name">Приложения</string>
     <string name="app_manage">Приложения</string>
-    <string name="jurisdiction_manage">Разрешения</string>
+    <string name="jurisdiction_manage">Разрешеныия</string>
     <string name="auto_start_manage">Автозапуск</string>
     <string name="net_manage">Сеть</string>
     <string name="cache_manage">Кэш</string>
@@ -139,7 +139,7 @@
     <string name="LBE_suppoort">Техническая поддержка LBE</string>
     <string name="have_system_app">\nВключая системные приложения</string>
     <string name="all_app">Все приложения</string>
-    <string name="app_list">Список приложений</string>
+    <string name="app_list">Приложения</string>
     <string name="app_permission_monitor">Мониторинг разрешений</string>
     <string name="app_permission_monitor_hint">Мониторинг запросов разрешений</string>
     <string name="no_longer_hint">Без подсказки</string>
@@ -168,7 +168,7 @@
     <string name="def_setting">Настройки по умолчанию</string>
     <string name="alread_save">Сохранено</string>
     <string name="memery_size">Место хранения</string>
-    <string name="running_proc">Запуск</string>
+    <string name="running_proc">Работающие</string>
     <string name="stop">остановить</string>
     <string name="memory_details">Память: %1$s/%2$s</string>
     <string name="memory_percent">использованно: %1$s</string>
@@ -193,7 +193,7 @@
     <string name="notify_ad">Рекламное уведомление</string>
     <string name="view_ad">Реклама во вложении</string>
     <string name="no_found_ad">Рекламы не обнаружено</string>
-    <string name="no_scan_ad">не сканировать</string>
+    <string name="no_scan_ad">сканировние не производилось</string>
     <string name="block_scuess">блокировано</string>
     <string name="block_ad_risk_action">"Рекламные плагины с опасным поведением блокированы"</string>
     <string name="open_permission_monitor">Открыть разрешение мониторинга</string>

@@ -10,7 +10,7 @@
     <string name="aurora_wifi_sleep_policy_title">WI-Fi в спящем режиме</string>
     <string name="aurora_proxy_hostname_label">Имя хоста</string>
     <string name="aurora_proxy_port_label">Порт</string>
-    <string name="aurora_proxy_exclusionlist_label">Без прокси сайта</string>
+    <string name="aurora_proxy_exclusionlist_label">Без прокси-сервера</string>
     <string name="aurora_display_brightness">Автояркость</string>
     <string name="aurora_display_screen_timeout">Сон</string>
     <string name="aurora_display_screen_timeout_summary">После %1$s бездействия</string>
@@ -48,7 +48,7 @@
     <string name="aurora_megabyteShort">МБ</string>
     <string name="aurora_gigabyteShort">ГБ</string>
     <string name="aurora_wifi_tether_configure_ssid_default">IUNI_AP</string>
-    <string name="clearDefaultHintMsg">Очистить значение по умолчанию в “Настройки системы”>“Application”>“Загрузки”</string>
+    <string name="clearDefaultHintMsg">Очистить значение по умолчанию в “Настройки системы”>“Приложения”>“Загрузки”</string>
     <string name="bugreport_title">Принять отчет об ошибке</string>
     <string name="bugreport_message">Он будет собирана информация о текущем состоянии телефона и отправлена по электронной почте. Для создания отчета об ошибке и его отправки  необходимо немного времени, пожалуйста, подождите.</string>
     <string name="ringtone_silent">нет</string>
@@ -151,8 +151,8 @@
     <string name="format_confirm_message">Пожалуйста, подтвердите выполнение операции форматирования. Она не может быть остановлена после запуска.</string>
     <string name="clear_sd_card_confirm_message">Пожалуйста, подтвердите выполнение операции стирания данных. Она не может быть остановлена после запуска.</string>
     <string name="aurora_no_add_account">Учетной записи не добавлено</string>
-    <string name="font_bold_pref_title">Жирный</string>
-    <string name="font_bold_message">Для применения полужирного шрифта необходима перезагрузка. Перезагрузить истройство?</string>
+    <string name="font_bold_pref_title">Жирный шрифт</string>
+    <string name="font_bold_message">Для применения жирного шрифта необходима перезагрузка. Перезагрузить истройство?</string>
     <string name="ok_font_bold_bt">ОК</string>
     <string name="cancel_font_bold_bt">Отмена</string>
     <string name="font_bold_dlg_title">Загрузка…</string>
@@ -266,7 +266,7 @@
     <string name="notify_push_dlg_confirm">ОК</string>
     <string name="notify_push_dlg_deny">НЕТ</string>
     <string name="pref_push_title">Push уведомления</string>
-    <string name="pref_push_summary">Разрешить приложению push сообщения</string>
+    <string name="pref_push_summary">Разрешение push сообщения</string>
     <string name="pref_push_noapp_summary">Нет приложений</string>
     <string name="pref_app_on">Приложения Вкл</string>
     <string name="pref_app_off">Приложения Выкл</string>
@@ -307,12 +307,12 @@
     <string name="hide_app_title">Скрыть проверку приложения при включении гостевого режима</string>
     <string name="haptic_vibration_title">Вибрационные эффекты</string>
     <string name="routine_vibrate_title">Режим вибрации</string>
-    <string name="dialpad_vibration_title">Dialpad vibrate</string>
+    <string name="dialpad_vibration_title">Вибрация в номеронабирателе</string>
     <string name="lockscreen_vibration_title">Вибрация блокировки экрана</string>
     <string name="selectapp_vibration_title">разрешать приложению управлять вибрацией</string>
     <string name="gn_rom_version">Версия системы Gionee</string>
     <string name="gn_settings_warning">Предупреждение</string>
-    <string name="sd_card_title">SD card</string>
+    <string name="sd_card_title">SD-карта</string>
     <string name="phone_title">Емкость телефона</string>
     <string name="setup_sd_card">Настройка SD-карты</string>
     <string name="no_sd_card">Нет установки SD-карты</string>
@@ -396,8 +396,8 @@
     <string name="schedule_power_on_off_settings_title">Запланированное включение/выключение</string>
     <string name="sim_status_title">Статус SIM-карты</string>
     <string name="sim_status_summary">Информацияб, связанная с SIM-картой</string>
-    <string name="slot_status_title">Информация о IMEI</string>
-    <string name="slot_status_summary">Информацияб, связанная с IMEI</string>
+    <string name="slot_status_title">Информация об IMEI</string>
+    <string name="slot_status_summary">Информация, связанная с IMEI</string>
     <string name="battery_level">%s%%</string>
     <string name="gn_bluetooth_stop_scan">Остановить поиск</string>
     <string name="gn_enable_debug_title">Log переключателей</string>
@@ -419,8 +419,8 @@
     <string name="bluetooth_ftp_profile_summary_use_for">Использование для передачи файлов</string>
     <string name="bluetooth_ftp_profile_summary_connected">Подключение для передачи файлов</string>
     <string name="lock_screen_style_title">Стиль экрана блокировки</string>
-    <string name="battery_percent">Процент батареи</string>
-    <string name="cpu_dtm_title">Режим энергосбережения процессора</string>
+    <string name="battery_percent">Заряд в процентах</string>
+    <string name="cpu_dtm_title">Энергосбережение</string>
     <string name="cpu_dtm_summary">Ограничение максимальной частоты процессора для экономии заряда аккумулятора и понижения нагрева устройства.</string>
     <string name="usb_sharing_title">USB Интернет</string>
     <string name="usb_sharing_summary">Раздача интернета на Windows PC через USB кабель</string>
@@ -468,7 +468,7 @@
     <string name="radioInfo_data_connected">Подключено</string>
     <string name="radioInfo_data_suspended">Приостановлено</string>
     <string name="radioInfo_unknown">неизвестно</string>
-    <string name="radioInfo_display_packets">pkts</string>
+    <string name="radioInfo_display_packets">пакетов</string>
     <string name="radioInfo_display_bytes">байт</string>
     <string name="radioInfo_display_dbm">дБм</string>
     <string name="radioInfo_display_asu">asu</string>
@@ -481,7 +481,7 @@
     <string name="large_font">Большой</string>
     <string name="font_size_preview_text">Servez à ce monsieur une bière et des kiwis</string>
     <string name="font_size_save">ОК</string>
-    <string name="sdcard_setting">SD card</string>
+    <string name="sdcard_setting">SD-карта</string>
     <string name="battery_info_status_label">Состояние батареи:</string>
     <string name="battery_info_power_label">Питание:</string>
     <string name="battery_info_scale_label">Шкала батареи:</string>
@@ -584,7 +584,7 @@
     <string name="intent_sender_startactivity_text">Начать активити</string>
     <string name="intent_sender_resource_label">Ресурс:</string>
     <string name="intent_sender_account_label">Аккаунт:</string>
-    <string name="proxy_settings_title">Настройки прокси-сервера</string>
+    <string name="proxy_settings_title">Прокси-сервер</string>
     <string name="proxy_clear_text">Очистить</string>
     <string name="proxy_port_label">Порт</string>
     <string name="proxy_port_hint">8080</string>
@@ -660,7 +660,7 @@
     <string name="display_label">Экран</string>
     <string name="phone_info_label">Информация о телефоне</string>
     <string name="sd_card_settings_label">USB накопитель</string>
-    <string name="proxy_settings_label">Настройки прокси-сервера</string>
+    <string name="proxy_settings_label">Прокси-сервер</string>
     <string name="cancel">Отмена</string>
     <string name="settings_label">Настройки</string>
     <string name="settings_label_launcher">Настройки</string>
@@ -1036,7 +1036,7 @@
     <string name="wifi_p2p_failed_connect_message">Невозможно соединиться</string>
     <string name="wifi_p2p_failed_rename_message">Ошибка переименовывания устройства</string>
     <string name="wifi_p2p_disconnect_title">Отключиться?</string>
-    <string name="wifi_p2p_disconnect_message">Если отключиться, то ваше соединение с %1$s будет разорвано</string>
+    <string name="wifi_p2p_disconnect_message">При отключении ваше соединение с %1$s будет разорвано</string>
     <string name="wifi_p2p_disconnect_multiple_message">Если отключиться, то ваше соединение с %1$s и %2$s другими устройствами будет разорвано.</string>
     <string name="wifi_p2p_cancel_connect_title">Отменить приглашение?</string>
     <string name="wifi_p2p_cancel_connect_message">Отменить приглашение соединения с %1$s?</string>
@@ -1046,7 +1046,7 @@
     <string name="wifi_tether_stopping">Отключение точки доступа…</string>
     <string name="wifi_tether_enabled_subtext">Точка доступа \"%1$s\" активна</string>
     <string name="wifi_tether_failed_subtext">Ошибка подключения</string>
-    <string name="wifi_tether_configure_ap_text">Настройки точки доступа Wi-Fi</string>
+    <string name="wifi_tether_configure_ap_text">Wi-Fi точка</string>
     <string name="wifi_tether_configure_subtext">Точка доступа \"%1$s\" %2$s</string>
     <string name="wifi_tether_configure_ssid_default">AndroidHotspot</string>
     <string name="testing_wifi_info">Информация Wi-Fi</string>
@@ -1131,7 +1131,7 @@
     <string name="brightness">Яркость</string>
     <string name="brightness_summary">Настроить яркость экрана</string>
     <string name="screen_timeout">Спящий режим</string>
-    <string name="screen_timeout_summary">Спустя %1$s бездействия</string>
+    <string name="screen_timeout_summary">Через %1$s бездействия</string>
     <string name="wallpaper_settings_title">Обои</string>
     <string name="wallpaper_settings_fragment_title">Выбрать обои из</string>
     <string name="screensaver_settings_title">Заставка</string>
@@ -2123,7 +2123,7 @@ Ready to start? Touch Next."</string>
     <string name="data_usage_cycle_editor_subtitle">День месяца:</string>
     <string name="data_usage_cycle_editor_positive">Сохранить</string>
     <string name="data_usage_warning_editor_title">Настройка предупреждения</string>
-    <string name="data_usage_limit_editor_title">Лимити трафика</string>
+    <string name="data_usage_limit_editor_title">Лимит трафика</string>
     <string name="data_usage_limit_dialog_title">Объем трафика ограничен</string>
     <string name="data_usage_limit_dialog_mobile">"Ваша передача данных по сети будет отключена, когда указанный предел будет достигнут.
 

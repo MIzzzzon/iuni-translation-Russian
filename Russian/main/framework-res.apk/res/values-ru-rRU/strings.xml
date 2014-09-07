@@ -1271,8 +1271,8 @@
     <string name="sending">Отправка…</string>
     <string name="launchBrowserDefault">Запустить браузер?</string>
     <string name="SetupCallDefault">Принять вызов?</string>
-    <string name="activity_resolver_use_always">Always</string>
-    <string name="activity_resolver_use_once">Just once</string>
+    <string name="activity_resolver_use_always">Всегда</string>
+    <string name="activity_resolver_use_once">Только сейчас</string>
     <string name="default_audio_route_name">Телефон</string>
     <string name="default_audio_route_name_headphones">Наушники</string>
     <string name="default_audio_route_name_dock_speakers">Док. станция</string>
@@ -1299,11 +1299,11 @@
     <string name="kg_wrong_password">Неверный пароль</string>
     <string name="kg_wrong_pin">Неверный PIN код</string>
     <string name="kg_too_many_failed_attempts_countdown">Попробуйте через %d сек.</string>
-    <string name="kg_pattern_instructions">Нарисуйте свой шаблон</string>
+    <string name="kg_pattern_instructions">Нарисуйте графический ключ</string>
     <string name="kg_sim_pin_instructions">Введите SIM PIN</string>
     <string name="kg_pin_instructions">Введите PIN</string>
     <string name="kg_password_instructions">Введите пароль</string>
-    <string name="kg_puk_enter_puk_hint">SIM-карта заблокирована. Введите PUK код для проолжения. Обратитесь в справочную вашего провайдера для получения подробностей.</string>
+    <string name="kg_puk_enter_puk_hint">SIM-карта заблокирована. Введите PUK код для разблокировки. Обратитесь в справочную вашего провайдера для получения подробностей.</string>
     <string name="kg_puk_enter_pin_hint">Введите PIN код</string>
     <string name="kg_enter_confirm_pin_hint">Подтвердите PIN код</string>
     <string name="kg_sim_unlock_progress_dialog_message">Разблокировка SIM-карты…</string>

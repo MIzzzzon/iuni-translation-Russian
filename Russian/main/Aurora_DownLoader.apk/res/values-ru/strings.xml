@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_label">Управление загрузкой</string>
-    <string name="app_name">Управление загрузкой</string>
+    <string name="app_label">Менеджер загрузок</string>
+    <string name="app_name">Менеджер загрузок</string>
     <string name="hello_world">Привет, мир!</string>
     <string name="action_settings">Настройки</string>
     <string name="share_download">Поделиться</string>
     <string name="share_max">800</string>
-    <string name="no_file">Нет файла</string>
+    <string name="no_file">Нет файлов</string>
     <string name="all_select">Выбрать все</string>
     <string name="invert_select">Отменить выделение</string>
     <string name="dialog_select_type">Выберите тип файла</string>
@@ -22,27 +22,27 @@
     <string name="download_queued">В очередь</string>
     <string name="download_running">Загрузка</string>
     <string name="download_success">Завершено</string>
-    <string name="download_error">Невожможно загрузить</string>
+    <string name="download_error">Ошибка загрузки</string>
     <string name="delete_download">Удалить</string>
     <string name="dialog_file_missing_body">Невозможно найти исходный файл</string>
-    <string name="dialog_title_not_available">Невожможно загрузить</string>
+    <string name="dialog_title_not_available">Невозможно загрузить</string>
     <string name="retry_download">Повторить</string>
     <string name="share_too_much">Вы много делитесь!</string>
     <string name="operation_delete">Удалить</string>
     <string name="del_file">Невозможно удалить %s</string>
-    <string name="operation_delete_single_confirm_message">Вы уверены, что хотите удалить этот файл?</string>
+    <string name="operation_delete_single_confirm_message">Удалить файл?</string>
     <string name="operation_delete_single_file_confirm_message">Удалить этот файл?</string>
     <string name="operation_delete_double_file_confirm_message">Удалить %1$d файлов?</string>
     <string name="operation_deleting">Удаление…</string>
-    <string name="download_no_complete">Подождите, пока загрузки будут выполнены!</string>
+    <string name="download_no_complete">Подождите завершения загрузок!</string>
     <string name="can_not_redownload">Невозможно загрузить файл! Удалите его и загрузите снова!</string>
     <string name="download_paused">Пауза</string>
     <string name="download_waiting">Ожидание</string>
     <string name="confirm">ОК</string>
-    <string name="enable_sd_card">Нет места в хранилище</string>
+    <string name="enable_sd_card">Нет места на накопителе</string>
     <string name="dialog_file_running">Ожидание загрузки</string>
     <string name="cancel">Отмена</string>
     <string name="send_file">Поделиться</string>
-    <string name="has_no_free_memory">Недостаточно места хранения. Пожалуйста, освободите место.</string>
+    <string name="has_no_free_memory">Недостаточно места хранения, освободите место.</string>
     <string name="no_network_2">无网络链接?</string>
 </resources>

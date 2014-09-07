@@ -35,7 +35,7 @@
     <string name="aurora_network_error">Ошибка сети</string>
     <string name="aurora_retry">Повторить попытку</string>
     <string name="aurora_collect_playlist">Избранное</string>
-    <string name="aurora_collect_size">%dОбразец</string>
+    <string name="aurora_collect_size">%dПлейлист(ов)</string>
     <string name="aurora_collect_time">Время: yyyy.mm.dd</string>
     <string name="aurora_download_manager">Загруженные</string>
     <string name="aurora_player_share">Поделиться</string>
@@ -49,7 +49,7 @@
     <string name="aurora_no_songs">Музыки не найдено</string>
     <string name="aurora_no_singers">Нет исполнителей</string>
     <string name="aurora_no_playlist">Нет плейлистов</string>
-    <string name="aurora_no_download_task">Нет задач на загрузку</string>
+    <string name="aurora_no_download_task">Нет загруженных треков</string>
     <string name="aurora_add_playlist">Добавить</string>
     <string name="aurora_edit_playlist">Редактировать</string>
     <string name="aurora_delete_playlist">Удалить</string>

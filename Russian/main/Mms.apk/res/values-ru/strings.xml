@@ -634,7 +634,7 @@
     <string name="delete_unlocked">Удалить заблокированные сообщения</string>
     <string name="delete">Удалить</string>
     <string name="select_conversations">Выбрать диалог</string>
-    <string name="no_conversations">Нет диалогов</string>
+    <string name="no_conversations">Сообщений не обнаружено</string>
     <string name="cannot_get_details">Не удалось загрузить данные</string>
     <string name="message_details_title">Сведения о сообщении</string>
     <string name="message_type_label">"Тип: "</string>

@@ -132,7 +132,7 @@
     <string name="downloadman_wait_wifi">Ожидание WI-FI cети</string>
     <string name="downloadman_no_network">Нет сети</string>
     <string name="downloadman_show_more">Развернуть все</string>
-    <string name="downloadman_nodata">Нет задач загрузки</string>
+    <string name="downloadman_nodata">Нет загруженных приложений</string>
     <string name="downloadman_go_shopping">На главную</string>
     <string name="downloadman_select_all">Выбрать все</string>
     <string name="downloadman_reverse_selection">Не выбрано</string>

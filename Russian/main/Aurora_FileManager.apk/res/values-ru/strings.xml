@@ -12,7 +12,7 @@
     <string name="category_document">Документы</string>
     <string name="enable_sd_card">Нет места для хранения</string>
     <string name="search_hint">Поиск файла или папки</string>
-    <string name="aurora_file_manager_title">Файлы</string>
+    <string name="aurora_file_manager_title">Категории</string>
     <string name="aurora_file_manager_detail">Сведения о памяти</string>
     <string name="aurora_file_manager_category_title">Категория</string>
     <string name="aurora_file_manager_storage_title">Память</string>
@@ -50,8 +50,8 @@
     <string name="no">Нет</string>
     <string name="send_file">Поделиться</string>
     <string name="share_too_much">It is so kind of you to share so much</string>
-    <string name="move_file">Возникла ошибка при перемещении файла %s</string>
-    <string name="copy_file">Возникли неполадки при копировании файла %s</string>
+    <string name="move_file">Возникла ошибка при перемещении %s</string>
+    <string name="copy_file">Возникла ошибка при копировании %s</string>
     <string name="del_file">Не удается удалить %s</string>
     <string name="tabs">%s/     </string>
     <string name="operation_deleting">Удаление…</string>
