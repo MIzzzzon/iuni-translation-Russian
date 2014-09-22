@@ -18,7 +18,7 @@
         <item>@null</item>
         <item>@null</item>
     </array>
-    <string-array name="aurora_white_table">
+    <string-array name="aurora_blacklist">
         <item>音乐</item>
         <item>视频</item>
         <item>影音</item>

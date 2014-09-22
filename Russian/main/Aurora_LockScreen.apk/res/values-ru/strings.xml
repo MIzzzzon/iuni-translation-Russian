@@ -148,4 +148,5 @@
     <string name="keyboard_headset_required_to_hear_password">Для возможности услышать произносимые символы пароля подсоедините гарнитуру</string>
     <string name="keyboard_password_character_no_headset">Точка</string>
     <string name="text_chart_finish">Зарядка завершена</string>
+    <string name="text_palm_rejection">Leave cover from top of the phone,please</string>
 </resources>

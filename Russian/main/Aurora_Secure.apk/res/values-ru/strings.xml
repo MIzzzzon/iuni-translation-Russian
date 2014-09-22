@@ -208,4 +208,5 @@
     <string name="lbe_monitor_close_hint_title">приложение было закрыто</string>
     <string name="lbe_monitor_close_hint_text">Повторное открытие пункта настройки в “меню-настройки” позволит продолжить использование функций</string>
     <string name="system">система</string>
+    <string name="necessary_app">Необходимые приложения</string>
 </resources>

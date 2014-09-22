@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="lable_map">
-        <item>com.aurora.secure$com.secure.activity.MainActivity|Application Management|应用管理#aurora_safe.png</item>
-        <item>com.aurora.netmanage$com.netmanage.activity.NetMainActivity|Traffic Statistics|流量统计#network_flow.png</item>
+        <item>com.aurora.secure$com.secure.activity.MainActivity|Application Management#aurora_safe.png</item>
+        <item>com.aurora.netmanage$com.netmanage.activity.NetMainActivity|Traffic Statistics#network_flow.png</item>
         <item>com.android.camera$com.android.camera.CameraLauncher|Camera|照相机|相机#camera.png</item>
-        <item>com.android.browser$com.android.browser.BrowserActivity|Browser|浏览器#browser.png</item>
+        <item>com.android.browser$com.android.browser.BrowserActivity#browser.png</item>
         <item>Chrome#chrome_browser.png</item>
         <item>电子邮件#email.png</item>
-        <item>com.android.music$com.android.auroramusic.ui.AuroraMediaPlayHome|Music|音乐#music.png</item>
-        <item>com.android.gallery3d$com.android.gallery3d.app.Gallery|Gallery|相册|图库#gallery3d.png</item>
-        <item>com.android.mms$com.aurora.mms.ui.AuroraConvListActivity|Messaging|信息#mms.png</item>
-        <item>com.android.calendar$com.android.calendar.AllInOneActivity|Calendar|S日历|日历#calendar.png</item>
+        <item>com.android.music$com.android.auroramusic.ui.AuroraMediaPlayHome#music.png</item>
+        <item>com.android.gallery3d$com.android.gallery3d.app.Gallery#gallery3d.png</item>
+        <item>com.android.mms$com.aurora.mms.ui.AuroraConvListActivity#mms.png</item>
+        <item>com.android.calendar$com.android.calendar.AllInOneActivity#calendar.png</item>
         <item>com.android.settings$com.android.settings.Settings|Settings|设置#settings.png</item>
-        <item>com.android.contacts$com.android.contacts.activities.AuroraPeopleActivity|Contacts|联系人#contacts.png</item>
-        <item>com.android.contacts$com.android.contacts.activities.AuroraDialActivity|Phone|拨号#phone.png</item>
-        <item>gn.com.android.update$gn.com.android.update.ui.UpdateUiActivity|Updater|系统升级#system_update.png</item>
-        <item>com.android.deskclock$com.android.deskclock.AlarmClock|Clock|时钟#deskclock.png</item>
-        <item>com.aurora.filemanager$com.aurora.filemanager.FileExplorerTabActivity|File Manager|我的文件|文件管理#filemanager.png</item>
-        <item>录音机#recorder.png</item>
+        <item>com.android.contacts$com.android.contacts.activities.AuroraDialActivity|Phone#phone.png</item>
+        <item>com.android.contacts$com.android.contacts.activities.AuroraPeopleActivity|Contacts#contacts.png</item>
+        <item>gn.com.android.update$gn.com.android.update.ui.UpdateUiActivity|Updater#system_update.png</item>
+        <item>com.android.deskclock$com.android.deskclock.AlarmClock#deskclock.png</item>
+        <item>com.aurora.filemanager$com.aurora.filemanager.FileExplorerTabActivity|File Manager#filemanager.png</item>
+        <item>快速录音|录音机#recorder.png</item>
         <item>视频#video.png</item>
         <item>SuperSU#supersu.png</item>
-        <item>com.android.calculator2$com.android.calculator2.Calculator|Calculator|计算器#calculator2.png</item>
-        <item>com.aurora.note$com.aurora.note.NoteMainActivity|Memo|备忘录|S 备忘录|便签#s_note.png</item>
+        <item>com.android.calculator2$com.android.calculator2.Calculator#calculator2.png</item>
+        <item>com.aurora.note$com.aurora.note.NoteMainActivity#s_note.png</item>
         <item>下载列表#downlist.png</item>
-        <item>com.aurora.market$com.aurora.market.MarketMainActivity|应用商店|应用商店#aurora_appstore.png</item>
-        <item>com.aurora.reject$com.aurora.reject.AuroraRejectActivity|Interceptor|骚扰拦截#fangdarao.png</item>
+        <item>com.aurora.market$com.aurora.market.MarketMainActivity#aurora_appstore.png</item>
+        <item>com.aurora.reject$com.aurora.reject.AuroraRejectActivity|Interceptor#fangdarao.png</item>
         <item>com.baidu.BaiduMap$com.baidu.baidumaps.WelcomeScreen|百度地图#baidu_map.png</item>
         <item>com.android.vending$com.android.vending.AssetBrowserActivity|Play Store|Play 商店#google_play.png</item>
         <item>com.tencent.qqgame$com.tencent.qqgame.client.QQGameHallActivity|QQ游戏#qq_gamehall.png</item>
@@ -1088,129 +1088,10 @@
         <item>com.xunlei.cloud$com.xunlei.cloud.LoadingActivity|迅雷影音#xunleiyingyin</item>
         <item>com.xunlei.share$com.xunlei.share.LoadingActivity|迅雷离线#xunleilixian.png</item>
         <item>com.mydrivers.newsclient$com.mydrivers.newsclient.ui.LogoActivity|驱家新闻#qujiaxinwen.png</item>
-    </string-array>
-    <string-array name="package_class">
-        <item>com.sec.android.app.camera$com.sec.android.app.camera.Camera#camera.png</item>
-        <item>com.android.chrome$com.google.android.apps.chrome.Main#chrome_browser.png</item>
-        <item>com.android.email$com.android.email.activity.Welcome#email.png</item>
-        <item>com.sec.android.app.music$com.sec.android.app.music.MusicActionTabActivity#music.png</item>
-        <item>com.sec.android.gallery3d$com.sec.android.gallery3d.app.Gallery|com.android.gallery3d$com.android.gallery3d.app.Gallery#gallery3d.png</item>
-        <item>com.android.mms$com.android.mms.ui.BootActivity|com.android.mms$com.aurora.mms.ui.AuroraConvListActivity#mms.png</item>
-        <item>com.android.calendar$com.android.calendar.AllInOneActivity#calendar.png</item>
-        <item>com.android.settings$com.android.settings.Settings#settings.png</item>
-        <item>com.android.contacts$com.android.contacts.activities.AuroraPeopleActivity#contacts.png</item>
-        <item>com.android.contacts$com.android.contacts.activities.DialtactsActivity|com.android.contacts$com.android.contacts.activities.AuroraDialActivity#phone.png</item>
-        <item>com.baidu.BaiduMap$com.baidu.baidumaps.WelcomeScreen#baidu_map.png</item>
-        <item>com.android.vending$com.android.vending.AssetBrowserActivity#google_play|Play 商店.png</item>
-        <item>com.tencent.qqgame$com.tencent.qqgame.client.QQGameHallActivity#qq_gamehall.png</item>
-        <item>com.androidesk$com.androidesk.Androidesk#android_wallpaper.png</item>
-        <item>cn.opda.a.phonoalbumshoushou$cn.com.opda.android.mainui.MainActivity#android_youhua.png</item>
-        <item>com.baidu.appsearch$com.baidu.appsearch.LauncherActivity#baidu_zhushou.png</item>
-        <item>com.baidu.input$com.baidu.input.ImeMainConfigActivity#baidu_input.png</item>
-        <item>cn.ibuka.manga.ui$cn.ibuka.manga.ui.ActivityStartup#kabu_cartoon.png</item>
-        <item>com.dianping.v1$com.dianping.v1.SplashScreenActivity#dazhongdianpin.png</item>
-        <item>brut.googlemaps$com.google.android.maps.MapsActivity#gooole_map.png</item>
-        <item>sogou.mobile.explorer$sogou.mobile.explorer.BrowserActivity#sougou_browser.png</item>
-        <item>com.sohu.inputmethod.sogou$com.sohu.inputmethod.sogou.SogouIMELauncher#sougou_input.png</item>
-        <item>com.youdao.dict$com.youdao.dict.activity.DictSplashActivity#youdao_dictionary.png</item>
-        <item>gn.com.android.update$gn.com.android.update.ui.UpdateUiActivity#system_update.png</item>
-        <item>com.sec.android.app.clockpackage$com.sec.android.app.clockpackage.ClockPackage#deskclock.png</item>
-        <item>com.sec.android.app.myfiles$com.sec.android.app.myfiles.MainActivity|com.aurora.filemanager$com.aurora.filemanager.FileExplorerTabActivity#filemanager.png</item>
-        <item>com.sec.android.app.voicerecorder$com.sec.android.app.voicerecorder.VoiceRecorderMainActivity#recorder.png</item>
-        <item>com.samsung.everglades.video$com.samsung.everglades.video.VideoMain#video.png</item>
-        <item>eu.chainfire.supersu$eu.chainfire.supersu.MainActivity-Emblem#supersu.png</item>
-        <item>com.sec.android.app.popupcalculator$com.sec.android.app.popupcalculator.Calculator#calculator2.png</item>
-        <item>com.sec.android.widgetapp.diotek.smemo$com.sec.android.widgetapp.q1_penmemo.MemoListActivity#s_note.png</item>
-        <item>com.android.providers.downloads.ui$com.android.providers.downloads.ui.DownloadList#downlist.png</item>
-        <item>com.anydo$com.anydo.activity.Main#any_do.png</item>
-        <item>com.keramidas.TitaniumBackup$com.keramidas.TitaniumBackup.MainActivity#tai_backup.png</item>
-        <item>cn.chinabus.main$cn.chinabus.main.avtivity.StartActivity#transit8684.png</item>
-        <item>cn.lieche.main$cn.lieche.main.StartActivity#train8684.png</item>
-        <item>com.nd.android.pandareader$com.nd.android.pandareader.home.Pandareader#panda_reader.png</item>
-        <item>com.rovio.angrybirds$com.rovio.fusion.App#angry_birds.png</item>
-        <item>com.estrongs.android.pop$com.estrongs.android.pop.view.FileExplorerActivity#es_filebrowser.png</item>
-        <item>com.chartcross.fieldcompass$com.chartcross.fieldcompass.FieldCompassActivity#field_compas.png</item>
-        <item>com.chartcross.gpstest$com.chartcross.gpstest.GPSTest#gpstest.png</item>
-        <item>com.instagram.android$com.instagram.android.activity.MainTabActivity#instagram.png</item>
-        <item>com.lbe.security$com.lbe.security.ui.SplashActivity#lbe_safe.png</item>
-        <item>com.wpd.game.popstar$com.wpd.game.popstar.PopStar#popstart.png</item>
-        <item>com.tencent.mobileqq$com.tencent.mobileqq.activity.SplashActivity#qq.png</item>
-        <item>com.qzone$com.tencent.sc.activity.SplashActivity#qqzone.png</item>
-        <item>com.tencent.mtt$com.tencent.mtt.SplashActivity#qqbrowser.png</item>
-        <item>com.tencent.qqmusic$com.tencent.qqmusic.activity.AppStarterActivity#qqmusic.png</item>
-        <item>com.sds.android.ttpod$com.sds.android.ttpod.EntryActivity#ttentry.png</item>
-        <item>com.UCMobile$com.UCMobile.main.UCMobile#ucbrowser.png</item>
-        <item>com.weico.sinaweibo$com.weico.sinaweibo.activity.LogoActivity#weico.png</item>
-        <item>com.myzaker.ZAKER_Phone$com.myzaker.ZAKER_Phone.view.LogoActivity#zaker.png</item>
-        <item>com.qiyi.video.market$com.qiyi.video.market.WelcomeActivity#aiqiyi.png</item>
-        <item>com.baidu.baiducamera$com.baidu.baiducamera.WelcomeActivity#baidu_mopai.png</item>
-        <item>com.baidu.tieba$com.baidu.tieba.LogoActivity#baidu_tieba.png</item>
-        <item>com.ting.mp3.android$com.baidu.music.ui.splash.SplashActivity#baidu_music.png</item>
-        <item>com.baidu.netdisk$com.baidu.netdisk.ui.Navigate#baidu_cloud.png</item>
-        <item>com.carrot.carrotfantasy$com.carrot.carrotfantasy.CarrotFantasy#carrotfantasy.png</item>
-        <item>com.storm.smart$com.storm.smart.LogoActivity#storm_video.png</item>
-        <item>com.gomedo.YFish$com.gomedo.YFish.Cocos2dXFishProjectY#bydr_yfish.png</item>
-        <item>com.igg.castleclash_cn_igg$com.igg.castleclash_cn_igg.CastleClash#castleclash.png</item>
-        <item>com.kiloo.subwaysurf$com.skynet.android.impl.ui.SkynetSplashActivity#subwaysurf.png</item>
-        <item>com.duomi.android$com.duomi.android.DMLauncher#duomimusic.png</item>
-        <item>cn.com.fetion$cn.com.fetion.activity.LaunchActivity#fetion.png</item>
-        <item>com.autonavi.minimap$com.autonavi.minimap.Splashy#gaode_map.png</item>
-        <item>com.qqgame.hlddz$com.qqgame.hlddz.hlddzActivity#qq_game_hlddz.png</item>
-        <item>com.tencent.game.rhythmmaster$com.tencent.game.rhythmmaster.rhythmmaster#rhythmmaster.png</item>
-        <item>com.ss.android.article.news$com.ss.android.article.news.activity.SplashActivity#news_toutiao.png</item>
-        <item>com.ijinshan.kbatterydoctor$com.ijinshan.kbatterydoctor.SplashActivity#kbatterydoctor.png</item>
-        <item>com.jingdong.app.mall$com.jingdong.app.mall.MainActivity#jd_mall.png</item>
-        <item>fm.jihua.kecheng$fm.jihua.kecheng.ui.activity.SplashActivity#kecheng.png</item>
-        <item>com.kugou.android$com.kugou.android.app.splash.SplashActivity#kugoumusic.png</item>
-        <item>cn.kuwo.player$cn.kuwo.player.activities.EntryActivity#kuwomusic.png</item>
-        <item>com.qvod.player$com.qvod.player.PlayerAdapterActivity#kuaibo.png</item>
-        <item>com.Kingdee.Express$com.Express.Activity.Splash#express100.png</item>
-        <item>com.alensw.PicFolder$com.alensw.PicFolder.GalleryActivity#picfolder.png</item>
-        <item>jp.naver.line.android$jp.naver.line.android.activity.SplashActivity#line.png</item>
-        <item>com.cleanmaster.mguard_cn$com.keniu.security.main.MainActivity#liebao_cleanmaster.png</item>
-        <item>my.beautyCamera$my.beautyCamera.PocoCamera#beautycamera.png</item>
-        <item>com.mt.mtxx.mtxx$com.mt.mtxx.mtxx.TopViewActivity#mtxx.png</item>
-        <item>com.immomo.momo$com.immomo.momo.android.activity.WelcomeActivity#momo.png</item>
-        <item>com.moji.mjweather$com.moji.mjweather.CSplashScreen#csplashscreen.png</item>
-        <item>com.muzhiwan.market.hd$com.muzhiwan.market.hd.MzwSplashActivity#muzhiwan.png</item>
-        <item>com.cubic.autohome$com.cubic.autohome.Logo#autohome.png</item>
-        <item>com.iboxpay.minicashbox$com.iboxpay.minicashbox.GuideActivity#minicashbox.png</item>
-        <item>com.imangi.templerun2$com.idreamsky.gamecenter.ui.SkynetSplashActivity#templerun2.png</item>
-        <item>com.tencent.qqpimsecure$com.tencent.server.fore.QuickLoadActivity#qqpimsecure.png</item>
-        <item>com.matthewgao.unicom$com.matthewgao.unicom.Main#unicom.png</item>
-        <item>com.funinput.digit$com.funinput.digit.activity.WelcomeActivity#fuinput_digit.png</item>
-        <item>com.sohu.sohuvideo$com.sohu.sohuvideo.FirstNavigationActivityGroup#sohuvideo.png</item>
-        <item>com.taobao.taobao$com.taobao.tao.Welcome#taobao.png</item>
-        <item>com.taobao.caipiao$com.taobao.caipiao.SplashActivity#taobao_caipai.png</item>
-        <item>com.tencent.pao$com.tencent.pao.BreezeGame#pao_breezegame.png</item>
-        <item>com.netease.newsreader.activity$com.netease.nr.biz.ad.AdActivity#wangyi_news.png</item>
-        <item>com.netease.cloudmusic$com.netease.cloudmusic.activity.LoadingActivity#wangyi_cloudmusic.png</item>
-        <item>com.sina.weibo$com.sina.weibo.SplashActivity#weibo.png</item>
-        <item>cn.buding.martin$cn.buding.martin.activity.SplashActivity#martin.png</item>
-        <item>com.tencent.mm$com.tencent.mm.ui.LauncherUI#tencent_mm.png</item>
-        <item>com.wochacha$com.wochacha.StartupActivity#wochaca.png</item>
-        <item>com.locojoy.punchbox.immt_a_chs$com.locojoy.punchbox.immt_a_chs.IamMT#iammt.png</item>
-        <item>fm.xiami.main$fm.xiami.bmamba.activity.StartActivity#xiaomimusic.png</item>
-        <item>vStudio.Android.Camera360$vStudio.Android.Camera360.activity.FirstInitActivity#camera360.png</item>
-        <item>com.firebear.androil$com.firebear.androil.AndroilAct#firebear.png</item>
-        <item>com.tbody.superluck$com.tbody.superluck.MianLayoutActivity#superluck.png</item>
-        <item>com.tiqiaa.icontrol$com.tiqiaa.icontrol.WelcomeActivity#icontrol.png</item>
-        <item>one.hh.oneclient$one.hh.oneclient.activitys.WelcomeActivity#one.png</item>
-        <item>im.yixin$im.yixin.activity.WelcomeActivity#yixin.png</item>
-        <item>com.youku.phone$com.youku.phone.ActivityWelcome#youku.png</item>
-        <item>com.iBookStar.activity$com.iBookStar.activityComm.Splash#ibookstar.png</item>
-        <item>com.eg.android.AlipayGphone$com.eg.android.AlipayGphone.AlipayLogin#alipaygphone.png</item>
-        <item>com.zhihu.daily.android$com.zhihu.daily.android.MainActivity#zhihu.png</item>
-        <item>com.tencent.pvz$com.tencent.pvz.SexyApp#tencent_pvz.png</item>
-        <item>com.yipiao$com.yipiao.activity.LaunchActivity#yipiao.png</item>
-        <item>com.tencent.qqpinyin$com.tencent.qqpinyin.activity.GuideDialogActivity#qqpinyin.png</item>
-        <item>cn.wps.moffice_eng$cn.wps.moffice.documentmanager.PreStartActivity#wps_office.png</item>
-        <item>com.netease.pris$com.netease.pris.activity.PRISActivityFlasScreen#netease.png</item>
-        <item>com.android.stk$com.android.stk.StkLauncherActivity#stk.png</item>
-        <item>air.com.adobe.pstouch1$com.common.EntryActivity#pstouch.png</item>
-        <item>com.sec.android.app.barometer$com.sec.android.app.barometer.Disclaimer#s_baro.png</item>
-        <item>com.iboxpay.iboxpay$com.iboxpay.iboxpay.SplashScreenActivity#iboxpay.png</item>
-        <item>com.cutt.zhiyue.android.app329129$com.cutt.zhiyue.android.view.activity.SplashActivity#app329129.png</item>
-        <item>com.wandoujia.phoenix2$com.wandoujia.phoenix2.NewWelcomeActivity#phoenix2.png</item>
+        <item>com.sinovatech.unicom.ui$com.sinovatech.unicom.ui.WelcomeClient#liantongyingyeting.png</item>
+        <item>com.coomix.app.bus$com.coomix.app.bus.activity.WelcomeActivity|酷米客公交#kumikegongjiao.png</item>
+        <item>com.meitu.meipaimv$com.meitu.meipaimv.StartupActivity|美拍#meipai.png</item>
+        <item>com.douban.daily$com.douban.daily.app.WelcomeActivity|一刻#doubanyike.png</item>
+        <item>com.tencent.modoomarble$com.tencent.modoomarble.ModooMarble|天天富翁#tiantianfuweng.png</item>
     </string-array>
 </resources>

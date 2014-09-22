@@ -119,7 +119,13 @@
     <string name="vs_barcode_title_scanner">扫一扫</string>
     <string name="vs_barcode_title_result">扫描结果</string>
     <string name="vs_barcode_scanning_tips">对准二维码即可自动扫描</string>
+    <string name="vs_barcode_getphotos">从相册提取</string>
+    <string name="vs_barcode_choosephotos">选择二维码图片</string>
     <string name="vs_barcode_search">搜索</string>
     <string name="vs_barcode_share">分享</string>
     <string name="vs_barcode_share_to">分享至</string>
+    <string name="vs_barcode_photo_tip_title">提示</string>
+    <string name="vs_barcode_photo_tip_message">未发现二维码</string>
+    <string name="vs_barcode_photo_button_left">继续选图</string>
+    <string name="vs_barcode_photo_button_right">确定</string>
 </resources>

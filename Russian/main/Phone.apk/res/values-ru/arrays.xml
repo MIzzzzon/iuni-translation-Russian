@@ -74,6 +74,7 @@
         <item>Показать</item>
     </string-array>
     <string-array name="preferred_network_mode_choices">
+        <item>НЕИЗВЕСТНО</item>
         <item>TD_SCDMA_LTE_CDMA_EVDO_GSM_WCDMA</item>
         <item>TD_SCDMA_CDMA_EVDO_GSM_WCDMA</item>
         <item>TD_SCDMA_GSM_WCDMA_LTE</item>
@@ -99,6 +100,7 @@
         <item>GSM/WCDMA (предпочтительно)</item>
     </string-array>
     <string-array name="preferred_network_mode_values">
+        <item>23</item>
         <item>22</item>
         <item>21</item>
         <item>20</item>

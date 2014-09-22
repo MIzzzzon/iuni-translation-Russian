@@ -35,8 +35,11 @@
     <string name="all_loaded">Загрузка данных</string>
     <string name="pull_to_rerefresh">Проверите вниз снова для обновления</string>
     <string name="tab_new">Новые</string>
+    <string name="tab_special">Темы</string>
     <string name="tab_ranking">Рейтинг</string>
     <string name="tab_category">Категории</string>
+    <string name="tab_starter">Основные</string>
+    <string name="tab_design">Дизайн</string>
     <string name="app_adapter_down_end">Установить</string>
     <string name="search_by_label">Поиск по тегам</string>
     <string name="app_detail_page">Сведения о приложении</string>
@@ -103,6 +106,7 @@
     <string name="wifi_auto_upgrade">Автообновление по Wi-Fi</string>
     <string name="software_auto_update_tip">Уведомлять о доступных обновлениях</string>
     <string name="apps_update_ignored">Игнорируемые обновления</string>
+    <string name="wifi_auto_upgrade_open_tip">打开该选项后系统会在锁屏且Wi-Fi的状态下自动将可更新的应用升级到最新版，是否确认打开？</string>
     <string name="app_market_name">Имя приложения</string>
     <string name="app_market_download_sum">Загрузок</string>
     <string name="app_market_download_size">Размер</string>
@@ -118,6 +122,7 @@
     <string name="downloadman_downloaded">Загружено</string>
     <string name="downloadman_no_install">Не установлено</string>
     <string name="downloadman_installed">Установлено</string>
+    <string name="downloadman_install_failed">Ошибка установки</string>
     <string name="downloadman_open">Открыть</string>
     <string name="downloadman_continue">Продолжить</string>
     <string name="downloadman_pause">Пауза</string>
@@ -146,13 +151,13 @@
     <string name="downloadman_noakkfile_redownload">Установочный пакет не был обнаружен, загрузить его повторно?</string>
     <string name="downloadman_continue_download_by_mobile">Использовать мобильную сеть при продолжении загрузки?</string>
     <string name="notification_status_dis_download">Загрузка приложений</string>
-    <string name="notification_status_dis_install">Устанавка приложений…</string>
+    <string name="notification_status_dis_install">Устанавка приложений</string>
     <string name="notification_status_dis_installed">Приложение установлено</string>
     <string name="notification_status_dis_installfailed">Ошибка установки приложения</string>
     <string name="notification_status_installed">Установка завершена</string>
     <string name="notification_status_installfailed">Не удается установить</string>
     <string name="notification_status_update">Обновление</string>
-    <string name="notification_status_dis_update">Обновление приложения…</string>
+    <string name="notification_status_dis_update">Обновление приложения</string>
     <string name="notification_status_click_dis">Нажмите для просмотра</string>
     <string name="notification_status_click_update">Обновить</string>
     <string name="notification_status_dis_auto_upate">Автоматически обновить %1$d приложений</string>
@@ -162,6 +167,7 @@
     <string name="search_page_pop_item2">Результат 2</string>
     <string name="search_page_pop_item3">Результат 3</string>
     <string name="search_page_pop_item4">Результат 4</string>
+    <string name="search_content_empty_tip">Поисковый запрос не может быть пустым!</string>
     <string name="page_loading_network_error">Ошибка сети</string>
     <string name="page_loading_no_network">Нет сети</string>
     <string name="page_loading_retry">Повторить</string>
@@ -171,4 +177,9 @@
     <string name="page_empty_search">暂无匹配结果,换个关键词试试</string>
     <string name="search_check_query">Запрос поиска не может быть пустым</string>
     <string name="app_updating_info">Обновляется</string>
+    <string name="app_special">应用专题</string>
+    <string name="special_app_count_text">%1$d Популярные приложения</string>
+    <string name="apecial_show_all">Просмотреть все</string>
+    <string name="design_award_app">设计奖应用</string>
+    <string name="essentail_app">Основные приложения</string>
 </resources>

@@ -34,7 +34,8 @@
     <string name="aurora_setting_network">Настройки сети</string>
     <string name="aurora_network_error">Ошибка сети</string>
     <string name="aurora_retry">Повторить попытку</string>
-    <string name="aurora_collect_playlist">Избранное</string>
+    <string name="aurora_collect_playlist">Избранные плейлисты</string>
+    <string name="aurora_collect_playlist2">Избранное</string>
     <string name="aurora_collect_size">%dПлейлист(ов)</string>
     <string name="aurora_collect_time">yyyy.MM.dd</string>
     <string name="aurora_collect_show_time">Время:</string>
@@ -44,7 +45,7 @@
     <string name="player_albums">Альбом</string>
     <string name="remove_download">Отмена</string>
     <string name="aurora_all_pause">Приостановить все</string>
-    <string name="aurora_all_download">Загрузить все</string>
+    <string name="aurora_all_download">Загрузить</string>
     <string name="aurora_exit">Выход</string>
     <string name="aurora_exit_tips">Идёт загрузка музыки, подтвердить выход?</string>
     <string name="aurora_no_songs">Музыки не найдено</string>
@@ -59,16 +60,16 @@
     <string name="aurora_search_lyric_name">Название:</string>
     <string name="aurora_search_lyric_artist">Исполнитель:</string>
     <string name="aurora_now_playing">Воспроизвести</string>
-    <string name="aurora_lyricsize">Сопоставлять %dслова</string>
-    <string name="aurora_search_img_size">Match%dИзображения</string>
+    <string name="aurora_lyricsize">Сопоставлять %d слова</string>
+    <string name="aurora_search_img_size">Сопоставлять %d обложки альбома</string>
     <string name="aurora_is_ignored">Была проигнорирована</string>
     <string name="aurora_ignore">Игнорировать</string>
-    <string name="aurora_all_regain">Восстановить все</string>
-    <string name="aurora_ignore_info">Не игнорировать сканировние файлов, папок, списки элементов слева могут игнорироваться при сканировании</string>
+    <string name="aurora_all_regain">Резюме</string>
+    <string name="aurora_ignore_info">Нет игноририруемых папок. Вы можете назначить игнорирование сканирования папки, сделав жест влево в списке папок.</string>
     <string name="aurora_regain">Восстановить</string>
     <string name="aurora_clean_space">Недостаточно свободного места на телефоне, освободите</string>
     <string name="aurora_modify_id3_info">Изменить id3 теги</string>
-    <string name="aurora_baidu_version">Копирайт Baidu Music</string>
+    <string name="aurora_baidu_version">Baidu Music. Все права защищены</string>
     <string name="img_desc_tens_of_hour">Десятки часов</string>
     <string name="img_desc_units_of_hour">Единицы часов</string>
     <string name="img_desc_tens_of_min">Десятки минут</string>
@@ -82,7 +83,7 @@
     <string name="num_albums_num_songs" formatted="false">%sАльбомов, и%sТреков</string>
     <string name="num_songs_of_album">%Треков</string>
     <string name="release_date_of_album">Время релиза:%s</string>
-    <string name="aurora_baidu_permission">Baidu Music, все права защищены</string>
+    <string name="aurora_baidu_permission">Baidu Music. Все права защищены</string>
     <string name="player_baidu_logo">Baidu Music</string>
     <string name="open_fail">не удалось открыть</string>
     <string name="song_name">xxxx</string>
@@ -127,6 +128,7 @@
     <string name="selectAllNot">Снять выделение</string>
     <string name="unknown_artist">Неизвестный исполнитель</string>
     <string name="unknown">Неизвестный</string>
+    <string name="unknown_time">неизвестно</string>
     <string name="menu_back">Назад</string>
     <string name="addsong_tomyplaylist" />
     <string name="addsong_selectsongs">выбранно %d треков</string>
@@ -134,7 +136,7 @@
     <string name="menu_continue">Вперед</string>
     <string name="num_songs_and_album" formatted="false">%s альбом(ов), %s трек(ов)</string>
     <string name="number_track">%s трек(ов)</string>
-    <string name="number_track2">%sтрека</string>
+    <string name="number_track2">%s трека</string>
     <string name="aurora_recommend_playlist">Рекомендуемые плейлисты</string>
     <string name="unknown_track">Неизвестный трек</string>
     <string name="aurora_select_bitrate">Выберите битрейт</string>
@@ -150,7 +152,7 @@
     <string name="aurora_search">Поиск</string>
     <string name="aurora_albums">Альбом</string>
     <string name="aurora_loading">Загрузка…</string>
-    <string name="aurora_netshare">Поделиться синглом</string>
+    <string name="aurora_netshare">Поделиться</string>
     <string name="aurora_download_permission">Нет разрешений для загрузки</string>
     <string name="aurora_notification_artist_album">%1$s·%2$s</string>
     <string name="onesong">1 трек</string>

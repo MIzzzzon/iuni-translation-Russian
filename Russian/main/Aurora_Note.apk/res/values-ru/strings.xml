@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Заметки</string>
+    <string name="quick_record_entry_name">Запись</string>
     <string name="note_reminder">Напоминание заметки</string>
     <string name="hello_world">Привет, мир!</string>
     <string name="action_settings">Настройки</string>
@@ -59,6 +60,9 @@ but we hope to freeze every valuable moment."</string>
     <string name="new_note_add_label">Добавить тег</string>
     <string name="new_note_gen_pic_error_content_too_large">Слишком много контента. Не удалось создать изображение.</string>
     <string name="new_note_gen_pic_error_unknow">Не удалось создать изображение</string>
+    <string name="first_use_quick_record_tip_1">Quick recording will be saved here in memo, you can add some description.</string>
+    <string name="first_use_quick_record_tip_2">If you need to create more recordings, please press record button at the bottom.</string>
+    <string name="first_use_quick_record_tip_3">Please open memo directly if you want to relisten the recordings later.</string>
     <string name="note_gen_picture">Создание изображения</string>
     <string name="share_title">Поделиться</string>
     <string name="save_to_gallery_success">Изображение сохранено</string>
@@ -71,6 +75,14 @@ but we hope to freeze every valuable moment."</string>
     <string name="load_picture_error_unknow">Неизвестная ошибка</string>
     <string name="play_error">Ошибка воспроизведения</string>
     <string name="play_error_file_not_exist">Файла не существует</string>
+    <string name="play_error_parse_file_failed">Failed to Parse file</string>
+    <string name="play_error_invalid_record_file">Invalid recording</string>
+    <string name="play_file_name_label">Playing:</string>
+    <string name="play_total_time_label">Duration:</string>
+    <string name="cancel_record_title">Abandon Recording</string>
+    <string name="cancel_record_msg">Recording will not be saved, confirm to abandon?</string>
+    <string name="record_notification_title">Recording</string>
+    <string name="record_notification_content">Tap to back to record</string>
     <string name="delete_confirm_title">Удаление напоминания</string>
     <string name="delete_confirm_message">Удалить напоминание заметки?</string>
     <string name="delete_confirm_ok_btn">ОК</string>

@@ -84,4 +84,6 @@
     <string name="unknown_error">неизвестная ошибка</string>
     <string name="install_failed_missing_shared_library">The lack of related Google dependent files</string>
     <string name="install_failed_version_downgrade">Установлена более новая версия приложения</string>
+    <string name="clear_residual_files"> Очистить мусор от приложения</string>
+    <string name="clear_sucess">Мусор очищен</string>
 </resources>

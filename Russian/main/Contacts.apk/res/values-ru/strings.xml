@@ -192,6 +192,14 @@
     <string name="aurora_no_mark">без отметки</string>
     <string name="aurora_mark_error">ошибка в имени</string>
     <string name="aurora_calllog_loading">Slide Down To Loading More Call Logs</string>
+    <string name="aurora_call_record_history_path">Запись вызова</string>
+    <string name="no_call_record_history">Нет записей</string>
+    <string name="call_record_detail_title">Сведения о записи</string>
+    <string name="call_record_message_time">Время:</string>
+    <string name="call_record_message_size">Размер:</string>
+    <string name="call_record_message_path">Путь: Память/Internal/Storage/Call Records/</string>
+    <string name="call_record_delete_title">Удалить запись</string>
+    <string name="call_record_delete_message">Удалить выбранную(ые) запись(и)?</string>
     <string name="config_import_vcard_type">по умолчанию</string>
     <string name="config_export_vcard_type">по умолчанию</string>
     <string name="config_export_dir">/mnt/sdcard</string>
