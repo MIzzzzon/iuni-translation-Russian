@@ -124,8 +124,19 @@
     <string name="vs_barcode_search">搜索</string>
     <string name="vs_barcode_share">分享</string>
     <string name="vs_barcode_share_to">分享至</string>
+    <string name="vs_barcode_add_contacts">添加到联系人</string>
+    <string name="vs_barcode_add_contacts_fail">打开应用失败</string>
     <string name="vs_barcode_photo_tip_title">提示</string>
     <string name="vs_barcode_photo_tip_message">未发现二维码</string>
     <string name="vs_barcode_photo_button_left">继续选图</string>
     <string name="vs_barcode_photo_button_right">确定</string>
+    <string name="vs_barcode_vcard_name">姓名：</string>
+    <string name="vs_barcode_vcard_phone">手机：</string>
+    <string name="vs_barcode_vcard_tel">电话：</string>
+    <string name="vs_barcode_vcard_mail">邮箱：</string>
+    <string name="vs_barcode_vcard_qq">QQ：</string>
+    <string name="vs_barcode_vcard_addr">地址：</string>
+    <string name="vs_barcode_vcard_org">公司：</string>
+    <string name="vs_barcode_vcard_title">职位：</string>
+    <string name="vs_barcode_vcard_website">网址：</string>
 </resources>

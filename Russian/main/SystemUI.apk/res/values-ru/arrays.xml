@@ -86,6 +86,7 @@
         <item>中国联通</item>
         <item>中国电信</item>
         <item>CMCC</item>
+		<item>CMCC — CMCC</item>
         <item>Searching for Service</item>
     </string-array>
     <string-array name="locale_carrier_names">
@@ -97,6 +98,7 @@
         <item>China_Mobile</item>
         <item>China_Unicom</item>
         <item>China_Telecom</item>
+		<item>China_Mobile</item>
         <item>China_Mobile</item>
         <item>roamingTextSearching</item>
     </string-array>

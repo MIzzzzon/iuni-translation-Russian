@@ -47,6 +47,7 @@ but we hope to freeze every valuable moment."</string>
     <string name="new_note_pic_num">Возможно вставить до 10 изображений</string>
     <string name="new_note_video_num">Возможно вставить до 10 видео</string>
     <string name="new_note_sound_num">Возможно вставить до 10 аудиофайлов</string>
+    <string name="new_note_attachment_count_limit">"Достигнуто максимально возможное число вложений"</string>
     <string name="dialog_delete_image_title">Удаление</string>
     <string name="dialog_delete_image_message">Удалить это изображение?</string>
     <string name="dialog_delete_audio_title">Удаление</string>

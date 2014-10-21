@@ -153,9 +153,9 @@
         <item>макро</item>
     </string-array>
     <string-array name="pref_camera_focusmode_labels">
-        <item>@string/APKTOOL_DUMMY_019a</item>
-        <item>@string/APKTOOL_DUMMY_019b</item>
-        <item>@string/APKTOOL_DUMMY_019c</item>
+        <item>@string/APKTOOL_DUMMY_01a9</item>
+        <item>@string/APKTOOL_DUMMY_01aa</item>
+        <item>@string/APKTOOL_DUMMY_01ab</item>
     </string-array>
     <string-array name="pref_camera_flashmode_entries">
         <item>@string/pref_camera_flashmode_entry_off</item>
@@ -163,9 +163,9 @@
         <item>@string/pref_camera_flashmode_entry_on</item>
     </string-array>
     <string-array name="pref_camera_flashmode_labels">
-        <item>@string/APKTOOL_DUMMY_01a4</item>
-        <item>@string/APKTOOL_DUMMY_01a2</item>
-        <item>@string/APKTOOL_DUMMY_01a3</item>
+        <item>@string/APKTOOL_DUMMY_01b3</item>
+        <item>@string/APKTOOL_DUMMY_01b1</item>
+        <item>@string/APKTOOL_DUMMY_01b2</item>
     </string-array>
     <string-array name="pref_camera_flashmode_entryvalues">
         <item>выкл</item>
@@ -187,8 +187,8 @@
         <item>@string/pref_camera_flashmode_entry_off</item>
     </string-array>
     <string-array name="pref_camera_video_flashmode_labels">
-        <item>@string/APKTOOL_DUMMY_01a3</item>
-        <item>@string/APKTOOL_DUMMY_01a4</item>
+        <item>@string/APKTOOL_DUMMY_01b2</item>
+        <item>@string/APKTOOL_DUMMY_01b3</item>
     </string-array>
     <string-array name="pref_camera_video_flashmode_entryvalues">
         <item>вспышка</item>
@@ -211,8 +211,8 @@
         <item>@string/setting_on</item>
     </string-array>
     <string-array name="pref_camera_recordlocation_labels">
-        <item>@string/APKTOOL_DUMMY_017f</item>
-        <item>@string/APKTOOL_DUMMY_017f</item>
+        <item>@string/APKTOOL_DUMMY_018e</item>
+        <item>@string/APKTOOL_DUMMY_018e</item>
     </string-array>
     <array name="camera_recordlocation_icons">
         <item>@drawable/ic_menuselect_gps_off</item>
@@ -230,11 +230,11 @@
         <item>@string/pref_camera_whitebalance_entry_cloudy</item>
     </string-array>
     <string-array name="pref_camera_whitebalance_labels">
-        <item>@string/APKTOOL_DUMMY_01ad</item>
-        <item>@string/APKTOOL_DUMMY_01af</item>
-        <item>@string/APKTOOL_DUMMY_01ac</item>
-        <item>@string/APKTOOL_DUMMY_01ae</item>
-        <item>@string/APKTOOL_DUMMY_01b0</item>
+        <item>@string/APKTOOL_DUMMY_01bc</item>
+        <item>@string/APKTOOL_DUMMY_01be</item>
+        <item>@string/APKTOOL_DUMMY_01bb</item>
+        <item>@string/APKTOOL_DUMMY_01bd</item>
+        <item>@string/APKTOOL_DUMMY_01bf</item>
     </string-array>
     <string-array name="pref_camera_whitebalance_entryvalues">
         <item>лампа накаливания</item>
@@ -272,11 +272,11 @@
         <item>@string/pref_camera_scenemode_entry_party</item>
     </string-array>
     <string-array name="pref_camera_scenemode_labels">
-        <item>@string/APKTOOL_DUMMY_01b9</item>
-        <item>@string/APKTOOL_DUMMY_01ba</item>
-        <item>@string/APKTOOL_DUMMY_01b8</item>
-        <item>@string/APKTOOL_DUMMY_01bb</item>
-        <item>@string/APKTOOL_DUMMY_01bc</item>
+        <item>@string/APKTOOL_DUMMY_01c8</item>
+        <item>@string/APKTOOL_DUMMY_01c9</item>
+        <item>@string/APKTOOL_DUMMY_01c7</item>
+        <item>@string/APKTOOL_DUMMY_01ca</item>
+        <item>@string/APKTOOL_DUMMY_01cb</item>
     </string-array>
     <array name="pref_camera_scenemode_icons">
         <item>@drawable/ic_sce_action</item>
@@ -297,8 +297,8 @@
         <item>@string/pref_camera_id_entry_front</item>
     </string-array>
     <string-array name="camera_id_labels">
-        <item>@string/APKTOOL_DUMMY_01c7</item>
-        <item>@string/APKTOOL_DUMMY_01c8</item>
+        <item>@string/APKTOOL_DUMMY_01d6</item>
+        <item>@string/APKTOOL_DUMMY_01d7</item>
     </string-array>
     <array name="camera_id_icons">
         <item>@drawable/ic_menuselect_camera_facing_back</item>
@@ -349,8 +349,8 @@
         <item>@string/setting_on</item>
     </string-array>
     <string-array name="pref_camera_hdr_labels">
-        <item>@string/APKTOOL_DUMMY_01c6</item>
-        <item>@string/APKTOOL_DUMMY_01c6</item>
+        <item>@string/APKTOOL_DUMMY_01d5</item>
+        <item>@string/APKTOOL_DUMMY_01d5</item>
     </string-array>
     <array name="pref_camera_hdr_icons">
         <item>@drawable/ic_hdr_off</item>
@@ -382,11 +382,11 @@
         <item>@drawable/ic_exposure_p3</item>
     </array>
     <string-array name="pref_camera_countdown_labels">
-        <item>@string/APKTOOL_DUMMY_01be</item>
-        <item>@string/APKTOOL_DUMMY_01bf</item>
-        <item>@string/APKTOOL_DUMMY_01c0</item>
-        <item>@string/APKTOOL_DUMMY_01c1</item>
-        <item>@string/APKTOOL_DUMMY_01c2</item>
+        <item>@string/APKTOOL_DUMMY_01cd</item>
+        <item>@string/APKTOOL_DUMMY_01ce</item>
+        <item>@string/APKTOOL_DUMMY_01cf</item>
+        <item>@string/APKTOOL_DUMMY_01d0</item>
+        <item>@string/APKTOOL_DUMMY_01d1</item>
     </string-array>
     <array name="color_picker_colors">
         <item>@color/color_picker_preset_color1</item>

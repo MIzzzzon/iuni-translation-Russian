@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="aurora_time_choice">
+        <item>@string/aurora_not_open</item>
+        <item>@string/aurora_10_min</item>
+        <item>@string/aurora_15_min</item>
+        <item>@string/aurora_30_min</item>
+        <item>@string/aurora_45_min</item>
+        <item>@string/aurora_60_min</item>
+    </string-array>
     <string-array name="weeklist">
         <item>1 неделя</item>
         <item>2 недели</item>

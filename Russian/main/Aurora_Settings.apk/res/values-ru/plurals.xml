@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d приложений могут читать уведомления</item>
+        <item quantity="one">%d приложение может читать уведомления</item>
+    </plurals>
     <plurals name="lockpassword_password_requires_letters">
         <item quantity="other">Пароль должен содержать минимум %d букв</item>
         <item quantity="one">Пароль должен содержать по крайней мере 1 букву</item>

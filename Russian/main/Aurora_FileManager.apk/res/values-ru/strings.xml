@@ -93,4 +93,14 @@
     <string name="input_error_char">Введен недопустимый символ</string>
     <string name="i_confirm_know">ОК</string>
     <string name="open_dir">Открыть папку</string>
+    <string name="operation_add">Добавить к приватным %s</string>
+    <string name="p_picture">Приватные фотографии</string>
+    <string name="p_video">Приватные видео</string>
+    <string name="activity_music">Записи</string>
+    <string name="activity_video">Видео</string>
+    <string name="activity_picture">Изображения</string>
+    <string name="pri_path">Приватные документы</string>
+    <string name="p_workspace">Приватность</string>
+    <string name="brackets_l">(</string>
+    <string name="brackets_r">)</string>
 </resources>

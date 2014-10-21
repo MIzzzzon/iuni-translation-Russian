@@ -121,4 +121,17 @@
     <string name="no_search_result">Результатов не найдено</string>
     <string name="exit_editmode">Удаление приложения, пожалуйста, подождите!</string>
     <string name="logwriter_log_closed">Лог был закрыт</string>
+	<string name="classify_names_other">Другие</string>
+    <string name="classify_names_game">Игры</string>
+    <string name="classify_app_title">Смарт-папка</string>
+    <string name="classify_app_msg">Сохранить этот результат?</string>
+    <string name="classify_app_sorting">Организация ...</string>
+    <string name="classify_app_complete">Icon arranging results preview</string>
+    <string name="classify_app_restoring">Восстановление ...</string>
+    <string name="classify_app_btn_restore">Восстановление</string>
+    <string name="classify_app_btn_ok">Использование</string>
+    <string name="folder_name_game">Игра</string>
+    <string name="folder_name_other">Другие</string>
+    <string name="folder_name_app">Приложения</string>
+    <string name="folder_name_system">Система</string>
 </resources>

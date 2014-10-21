@@ -127,4 +127,5 @@
     <string name="Add_More_Ringtones">Другие рингтоны…</string>
     <string name="aurora_empty_other_ringtone_text">Без других рингтонов</string>
     <string name="internal_storage_disable">Внутренняя память недоступна</string>
+	<string name="none_select">Не выбрано</string>
 </resources>
